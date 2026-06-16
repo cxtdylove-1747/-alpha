@@ -1,0 +1,45 @@
+services:
+  - type: web
+    name: innovation-agent-backend
+    runtime: python
+    rootDir: backend
+    plan: free
+    buildCommand: bash build.sh
+    startCommand: python -m gunicorn config.asgi:application -k uvicorn.workers.UvicornWorker
+    healthCheckPath: /api/health/
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.9
+      - key: DEBUG
+        value: "False"
+      - key: SECRET_KEY
+        generateValue: true
+      - key: ALLOWED_HOSTS
+        value: .onrender.com
+      - key: CORS_ALLOWED_ORIGINS
+        value: https://cxtdylove-1747.github.io
+      - key: DATABASE_URL
+        fromDatabase:
+          name: innovation-agent-db
+          property: connectionString
+      - key: REDIS_URL
+        fromService:
+          type: keyvalue
+          name: innovation-agent-cache
+          property: connectionString
+      - key: OPENAI_API_KEY
+        sync: false
+      - key: OPENAI_BASE_URL
+        value: https://api.deepseek.com/v1
+      - key: OPENAI_MODEL
+        value: deepseek-chat
+
+  - type: keyvalue
+    name: innovation-agent-cache
+    plan: free
+    ipAllowList: []
+
+databases:
+  - name: innovation-agent-db
+    databaseName: innovation_agent
+    user: innovation_agent
