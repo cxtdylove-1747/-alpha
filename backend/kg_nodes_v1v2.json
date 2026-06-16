@@ -1,0 +1,1634 @@
+{
+  "nodes": [
+    {
+      "id": "Concept_0001",
+      "label": "Concept",
+      "properties": {
+        "name": "PMF",
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "{ \"node_types\": { \"Concept\": [\"PMF\", \"TAM\", \"SAM\", \"SOM\", \"Value Proposition\", \"Moat\", \"Pricing\"], \"Method\": [\"Lean Canvas\", \"JTBD\", \"AARRR\", \"SWOT\", \"BCG\"], \"Task\": [\"User Interview\", \"Survey\", \"Competitor Analysis\", \"MVP Design\", \"Experiment\"], \"Artifact\": [",
+            "competition": ""
+          }
+        ],
+        "alias": [
+          "pmf",
+          "pmf"
+        ]
+      }
+    },
+    {
+      "id": "Concept_0002",
+      "label": "Concept",
+      "properties": {
+        "name": "TAM",
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "{ \"node_types\": { \"Concept\": [\"PMF\", \"TAM\", \"SAM\", \"SOM\", \"Value Proposition\", \"Moat\", \"Pricing\"], \"Method\": [\"Lean Canvas\", \"JTBD\", \"AARRR\", \"SWOT\", \"BCG\"], \"Task\": [\"User Interview\", \"Survey\", \"Competitor Analysis\", \"MVP Design\", \"Experiment\"], \"Artifact\": [",
+            "competition": ""
+          }
+        ],
+        "alias": [
+          "tam",
+          "tam"
+        ]
+      }
+    },
+    {
+      "id": "Concept_0003",
+      "label": "Concept",
+      "properties": {
+        "name": "SAM",
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "{ \"node_types\": { \"Concept\": [\"PMF\", \"TAM\", \"SAM\", \"SOM\", \"Value Proposition\", \"Moat\", \"Pricing\"], \"Method\": [\"Lean Canvas\", \"JTBD\", \"AARRR\", \"SWOT\", \"BCG\"], \"Task\": [\"User Interview\", \"Survey\", \"Competitor Analysis\", \"MVP Design\", \"Experiment\"], \"Artifact\": [",
+            "competition": ""
+          }
+        ],
+        "alias": [
+          "sam",
+          "sam"
+        ]
+      }
+    },
+    {
+      "id": "Concept_0004",
+      "label": "Concept",
+      "properties": {
+        "name": "SOM",
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "{ \"node_types\": { \"Concept\": [\"PMF\", \"TAM\", \"SAM\", \"SOM\", \"Value Proposition\", \"Moat\", \"Pricing\"], \"Method\": [\"Lean Canvas\", \"JTBD\", \"AARRR\", \"SWOT\", \"BCG\"], \"Task\": [\"User Interview\", \"Survey\", \"Competitor Analysis\", \"MVP Design\", \"Experiment\"], \"Artifact\": [",
+            "competition": ""
+          }
+        ],
+        "alias": [
+          "som",
+          "som"
+        ]
+      }
+    },
+    {
+      "id": "Concept_0005",
+      "label": "Concept",
+      "properties": {
+        "name": "Value Proposition",
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "{ \"node_types\": { \"Concept\": [\"PMF\", \"TAM\", \"SAM\", \"SOM\", \"Value Proposition\", \"Moat\", \"Pricing\"], \"Method\": [\"Lean Canvas\", \"JTBD\", \"AARRR\", \"SWOT\", \"BCG\"], \"Task\": [\"User Interview\", \"Survey\", \"Competitor Analysis\", \"MVP Design\", \"Experiment\"], \"Artifact\": [",
+            "competition": ""
+          }
+        ],
+        "alias": [
+          "value proposition",
+          "valueproposition"
+        ]
+      }
+    },
+    {
+      "id": "Concept_0006",
+      "label": "Concept",
+      "properties": {
+        "name": "Moat",
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "{ \"node_types\": { \"Concept\": [\"PMF\", \"TAM\", \"SAM\", \"SOM\", \"Value Proposition\", \"Moat\", \"Pricing\"], \"Method\": [\"Lean Canvas\", \"JTBD\", \"AARRR\", \"SWOT\", \"BCG\"], \"Task\": [\"User Interview\", \"Survey\", \"Competitor Analysis\", \"MVP Design\", \"Experiment\"], \"Artifact\": [",
+            "competition": ""
+          }
+        ],
+        "alias": [
+          "moat",
+          "moat"
+        ]
+      }
+    },
+    {
+      "id": "Concept_0007",
+      "label": "Concept",
+      "properties": {
+        "name": "Pricing",
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "{ \"node_types\": { \"Concept\": [\"PMF\", \"TAM\", \"SAM\", \"SOM\", \"Value Proposition\", \"Moat\", \"Pricing\"], \"Method\": [\"Lean Canvas\", \"JTBD\", \"AARRR\", \"SWOT\", \"BCG\"], \"Task\": [\"User Interview\", \"Survey\", \"Competitor Analysis\", \"MVP Design\", \"Experiment\"], \"Artifact\": [",
+            "competition": ""
+          }
+        ],
+        "alias": [
+          "pricing",
+          "pricing"
+        ]
+      }
+    },
+    {
+      "id": "Method_0001",
+      "label": "Method",
+      "properties": {
+        "name": "Lean Canvas",
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "{ \"node_types\": { \"Concept\": [\"PMF\", \"TAM\", \"SAM\", \"SOM\", \"Value Proposition\", \"Moat\", \"Pricing\"], \"Method\": [\"Lean Canvas\", \"JTBD\", \"AARRR\", \"SWOT\", \"BCG\"], \"Task\": [\"User Interview\", \"Survey\", \"Competitor Analysis\", \"MVP Design\", \"Experiment\"], \"Artifact\": [",
+            "competition": ""
+          }
+        ],
+        "alias": [
+          "lean canvas",
+          "leancanvas"
+        ]
+      }
+    },
+    {
+      "id": "Method_0002",
+      "label": "Method",
+      "properties": {
+        "name": "JTBD",
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "{ \"node_types\": { \"Concept\": [\"PMF\", \"TAM\", \"SAM\", \"SOM\", \"Value Proposition\", \"Moat\", \"Pricing\"], \"Method\": [\"Lean Canvas\", \"JTBD\", \"AARRR\", \"SWOT\", \"BCG\"], \"Task\": [\"User Interview\", \"Survey\", \"Competitor Analysis\", \"MVP Design\", \"Experiment\"], \"Artifact\": [",
+            "competition": ""
+          }
+        ],
+        "alias": [
+          "jtbd",
+          "jtbd"
+        ]
+      }
+    },
+    {
+      "id": "Method_0003",
+      "label": "Method",
+      "properties": {
+        "name": "AARRR",
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "{ \"node_types\": { \"Concept\": [\"PMF\", \"TAM\", \"SAM\", \"SOM\", \"Value Proposition\", \"Moat\", \"Pricing\"], \"Method\": [\"Lean Canvas\", \"JTBD\", \"AARRR\", \"SWOT\", \"BCG\"], \"Task\": [\"User Interview\", \"Survey\", \"Competitor Analysis\", \"MVP Design\", \"Experiment\"], \"Artifact\": [",
+            "competition": ""
+          }
+        ],
+        "alias": [
+          "aarrr",
+          "aarrr"
+        ]
+      }
+    },
+    {
+      "id": "Method_0004",
+      "label": "Method",
+      "properties": {
+        "name": "SWOT",
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "{ \"node_types\": { \"Concept\": [\"PMF\", \"TAM\", \"SAM\", \"SOM\", \"Value Proposition\", \"Moat\", \"Pricing\"], \"Method\": [\"Lean Canvas\", \"JTBD\", \"AARRR\", \"SWOT\", \"BCG\"], \"Task\": [\"User Interview\", \"Survey\", \"Competitor Analysis\", \"MVP Design\", \"Experiment\"], \"Artifact\": [",
+            "competition": ""
+          }
+        ],
+        "alias": [
+          "swot",
+          "swot"
+        ]
+      }
+    },
+    {
+      "id": "Method_0005",
+      "label": "Method",
+      "properties": {
+        "name": "BCG",
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "{ \"node_types\": { \"Concept\": [\"PMF\", \"TAM\", \"SAM\", \"SOM\", \"Value Proposition\", \"Moat\", \"Pricing\"], \"Method\": [\"Lean Canvas\", \"JTBD\", \"AARRR\", \"SWOT\", \"BCG\"], \"Task\": [\"User Interview\", \"Survey\", \"Competitor Analysis\", \"MVP Design\", \"Experiment\"], \"Artifact\": [",
+            "competition": ""
+          }
+        ],
+        "alias": [
+          "bcg",
+          "bcg"
+        ]
+      }
+    },
+    {
+      "id": "Task_0001",
+      "label": "Task",
+      "properties": {
+        "name": "User Interview",
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "{ \"node_types\": { \"Concept\": [\"PMF\", \"TAM\", \"SAM\", \"SOM\", \"Value Proposition\", \"Moat\", \"Pricing\"], \"Method\": [\"Lean Canvas\", \"JTBD\", \"AARRR\", \"SWOT\", \"BCG\"], \"Task\": [\"User Interview\", \"Survey\", \"Competitor Analysis\", \"MVP Design\", \"Experiment\"], \"Artifact\": [",
+            "competition": ""
+          }
+        ],
+        "alias": [
+          "user interview",
+          "userinterview"
+        ]
+      }
+    },
+    {
+      "id": "Task_0002",
+      "label": "Task",
+      "properties": {
+        "name": "Survey",
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "{ \"node_types\": { \"Concept\": [\"PMF\", \"TAM\", \"SAM\", \"SOM\", \"Value Proposition\", \"Moat\", \"Pricing\"], \"Method\": [\"Lean Canvas\", \"JTBD\", \"AARRR\", \"SWOT\", \"BCG\"], \"Task\": [\"User Interview\", \"Survey\", \"Competitor Analysis\", \"MVP Design\", \"Experiment\"], \"Artifact\": [",
+            "competition": ""
+          }
+        ],
+        "alias": [
+          "survey",
+          "survey"
+        ]
+      }
+    },
+    {
+      "id": "Task_0003",
+      "label": "Task",
+      "properties": {
+        "name": "Competitor Analysis",
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "{ \"node_types\": { \"Concept\": [\"PMF\", \"TAM\", \"SAM\", \"SOM\", \"Value Proposition\", \"Moat\", \"Pricing\"], \"Method\": [\"Lean Canvas\", \"JTBD\", \"AARRR\", \"SWOT\", \"BCG\"], \"Task\": [\"User Interview\", \"Survey\", \"Competitor Analysis\", \"MVP Design\", \"Experiment\"], \"Artifact\": [",
+            "competition": ""
+          }
+        ],
+        "alias": [
+          "competitor analysis",
+          "competitoranalysis"
+        ]
+      }
+    },
+    {
+      "id": "Task_0004",
+      "label": "Task",
+      "properties": {
+        "name": "MVP Design",
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "{ \"node_types\": { \"Concept\": [\"PMF\", \"TAM\", \"SAM\", \"SOM\", \"Value Proposition\", \"Moat\", \"Pricing\"], \"Method\": [\"Lean Canvas\", \"JTBD\", \"AARRR\", \"SWOT\", \"BCG\"], \"Task\": [\"User Interview\", \"Survey\", \"Competitor Analysis\", \"MVP Design\", \"Experiment\"], \"Artifact\": [",
+            "competition": ""
+          }
+        ],
+        "alias": [
+          "mvp design",
+          "mvpdesign"
+        ]
+      }
+    },
+    {
+      "id": "Task_0005",
+      "label": "Task",
+      "properties": {
+        "name": "Experiment",
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "{ \"node_types\": { \"Concept\": [\"PMF\", \"TAM\", \"SAM\", \"SOM\", \"Value Proposition\", \"Moat\", \"Pricing\"], \"Method\": [\"Lean Canvas\", \"JTBD\", \"AARRR\", \"SWOT\", \"BCG\"], \"Task\": [\"User Interview\", \"Survey\", \"Competitor Analysis\", \"MVP Design\", \"Experiment\"], \"Artifact\": [",
+            "competition": ""
+          }
+        ],
+        "alias": [
+          "experiment",
+          "experiment"
+        ]
+      }
+    },
+    {
+      "id": "Artifact_0001",
+      "label": "Artifact",
+      "properties": {
+        "name": "Business Plan",
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "{ \"node_types\": { \"Concept\": [\"PMF\", \"TAM\", \"SAM\", \"SOM\", \"Value Proposition\", \"Moat\", \"Pricing\"], \"Method\": [\"Lean Canvas\", \"JTBD\", \"AARRR\", \"SWOT\", \"BCG\"], \"Task\": [\"User Interview\", \"Survey\", \"Competitor Analysis\", \"MVP Design\", \"Experiment\"], \"Artifact\": [",
+            "competition": ""
+          }
+        ],
+        "alias": [
+          "business plan",
+          "businessplan"
+        ]
+      }
+    },
+    {
+      "id": "Artifact_0002",
+      "label": "Artifact",
+      "properties": {
+        "name": "Pitch Deck",
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "{ \"node_types\": { \"Concept\": [\"PMF\", \"TAM\", \"SAM\", \"SOM\", \"Value Proposition\", \"Moat\", \"Pricing\"], \"Method\": [\"Lean Canvas\", \"JTBD\", \"AARRR\", \"SWOT\", \"BCG\"], \"Task\": [\"User Interview\", \"Survey\", \"Competitor Analysis\", \"MVP Design\", \"Experiment\"], \"Artifact\": [",
+            "competition": ""
+          }
+        ],
+        "alias": [
+          "pitch deck",
+          "pitchdeck"
+        ]
+      }
+    },
+    {
+      "id": "Artifact_0003",
+      "label": "Artifact",
+      "properties": {
+        "name": "Market Report",
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "{ \"node_types\": { \"Concept\": [\"PMF\", \"TAM\", \"SAM\", \"SOM\", \"Value Proposition\", \"Moat\", \"Pricing\"], \"Method\": [\"Lean Canvas\", \"JTBD\", \"AARRR\", \"SWOT\", \"BCG\"], \"Task\": [\"User Interview\", \"Survey\", \"Competitor Analysis\", \"MVP Design\", \"Experiment\"], \"Artifact\": [",
+            "competition": ""
+          }
+        ],
+        "alias": [
+          "market report",
+          "marketreport"
+        ]
+      }
+    },
+    {
+      "id": "Artifact_0004",
+      "label": "Artifact",
+      "properties": {
+        "name": "Financial Model",
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "{ \"node_types\": { \"Concept\": [\"PMF\", \"TAM\", \"SAM\", \"SOM\", \"Value Proposition\", \"Moat\", \"Pricing\"], \"Method\": [\"Lean Canvas\", \"JTBD\", \"AARRR\", \"SWOT\", \"BCG\"], \"Task\": [\"User Interview\", \"Survey\", \"Competitor Analysis\", \"MVP Design\", \"Experiment\"], \"Artifact\": [",
+            "competition": ""
+          }
+        ],
+        "alias": [
+          "financial model",
+          "financialmodel"
+        ]
+      }
+    },
+    {
+      "id": "Artifact_0005",
+      "label": "Artifact",
+      "properties": {
+        "name": "PRD",
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "{ \"node_types\": { \"Concept\": [\"PMF\", \"TAM\", \"SAM\", \"SOM\", \"Value Proposition\", \"Moat\", \"Pricing\"], \"Method\": [\"Lean Canvas\", \"JTBD\", \"AARRR\", \"SWOT\", \"BCG\"], \"Task\": [\"User Interview\", \"Survey\", \"Competitor Analysis\", \"MVP Design\", \"Experiment\"], \"Artifact\": [",
+            "competition": ""
+          }
+        ],
+        "alias": [
+          "prd",
+          "prd"
+        ]
+      }
+    },
+    {
+      "id": "Metric_0001",
+      "label": "Metric",
+      "properties": {
+        "name": "CAC",
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "{ \"node_types\": { \"Concept\": [\"PMF\", \"TAM\", \"SAM\", \"SOM\", \"Value Proposition\", \"Moat\", \"Pricing\"], \"Method\": [\"Lean Canvas\", \"JTBD\", \"AARRR\", \"SWOT\", \"BCG\"], \"Task\": [\"User Interview\", \"Survey\", \"Competitor Analysis\", \"MVP Design\", \"Experiment\"], \"Artifact\": [",
+            "competition": ""
+          }
+        ],
+        "alias": [
+          "cac",
+          "cac"
+        ]
+      }
+    },
+    {
+      "id": "Metric_0002",
+      "label": "Metric",
+      "properties": {
+        "name": "LTV",
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "{ \"node_types\": { \"Concept\": [\"PMF\", \"TAM\", \"SAM\", \"SOM\", \"Value Proposition\", \"Moat\", \"Pricing\"], \"Method\": [\"Lean Canvas\", \"JTBD\", \"AARRR\", \"SWOT\", \"BCG\"], \"Task\": [\"User Interview\", \"Survey\", \"Competitor Analysis\", \"MVP Design\", \"Experiment\"], \"Artifact\": [",
+            "competition": ""
+          }
+        ],
+        "alias": [
+          "ltv",
+          "ltv"
+        ]
+      }
+    },
+    {
+      "id": "Metric_0003",
+      "label": "Metric",
+      "properties": {
+        "name": "Conversion Rate",
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "{ \"node_types\": { \"Concept\": [\"PMF\", \"TAM\", \"SAM\", \"SOM\", \"Value Proposition\", \"Moat\", \"Pricing\"], \"Method\": [\"Lean Canvas\", \"JTBD\", \"AARRR\", \"SWOT\", \"BCG\"], \"Task\": [\"User Interview\", \"Survey\", \"Competitor Analysis\", \"MVP Design\", \"Experiment\"], \"Artifact\": [",
+            "competition": ""
+          }
+        ],
+        "alias": [
+          "conversion rate",
+          "conversionrate"
+        ]
+      }
+    },
+    {
+      "id": "Metric_0004",
+      "label": "Metric",
+      "properties": {
+        "name": "Retention",
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "{ \"node_types\": { \"Concept\": [\"PMF\", \"TAM\", \"SAM\", \"SOM\", \"Value Proposition\", \"Moat\", \"Pricing\"], \"Method\": [\"Lean Canvas\", \"JTBD\", \"AARRR\", \"SWOT\", \"BCG\"], \"Task\": [\"User Interview\", \"Survey\", \"Competitor Analysis\", \"MVP Design\", \"Experiment\"], \"Artifact\": [",
+            "competition": ""
+          }
+        ],
+        "alias": [
+          "retention",
+          "retention"
+        ]
+      }
+    },
+    {
+      "id": "Metric_0005",
+      "label": "Metric",
+      "properties": {
+        "name": "Payback Period",
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "{ \"node_types\": { \"Concept\": [\"PMF\", \"TAM\", \"SAM\", \"SOM\", \"Value Proposition\", \"Moat\", \"Pricing\"], \"Method\": [\"Lean Canvas\", \"JTBD\", \"AARRR\", \"SWOT\", \"BCG\"], \"Task\": [\"User Interview\", \"Survey\", \"Competitor Analysis\", \"MVP Design\", \"Experiment\"], \"Artifact\": [",
+            "competition": ""
+          }
+        ],
+        "alias": [
+          "payback period",
+          "paybackperiod"
+        ]
+      }
+    },
+    {
+      "id": "Case_0001",
+      "label": "Case",
+      "properties": {
+        "name": "Awarded Project",
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "{ \"node_types\": { \"Concept\": [\"PMF\", \"TAM\", \"SAM\", \"SOM\", \"Value Proposition\", \"Moat\", \"Pricing\"], \"Method\": [\"Lean Canvas\", \"JTBD\", \"AARRR\", \"SWOT\", \"BCG\"], \"Task\": [\"User Interview\", \"Survey\", \"Competitor Analysis\", \"MVP Design\", \"Experiment\"], \"Artifact\": [",
+            "competition": ""
+          }
+        ],
+        "alias": [
+          "awarded project",
+          "awardedproject"
+        ]
+      }
+    },
+    {
+      "id": "Case_0002",
+      "label": "Case",
+      "properties": {
+        "name": "Industry Benchmark",
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "{ \"node_types\": { \"Concept\": [\"PMF\", \"TAM\", \"SAM\", \"SOM\", \"Value Proposition\", \"Moat\", \"Pricing\"], \"Method\": [\"Lean Canvas\", \"JTBD\", \"AARRR\", \"SWOT\", \"BCG\"], \"Task\": [\"User Interview\", \"Survey\", \"Competitor Analysis\", \"MVP Design\", \"Experiment\"], \"Artifact\": [",
+            "competition": ""
+          }
+        ],
+        "alias": [
+          "industry benchmark",
+          "industrybenchmark"
+        ]
+      }
+    },
+    {
+      "id": "Business_Element_0001",
+      "label": "Business_Element",
+      "properties": {
+        "name": "customer",
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"trigger_message\": \"Customer, value proposition, and channel are inconsistent.\", \"impact\": \"Business model is not executable in practice.\", \"fix_task\": \"Redefine target customer OR adjust channel strategy with evidence.\" } 15 条规则 ID（直接建清单） | ID | 规则 | | --- |",
+            "competition": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "Business_Element_0002",
+      "label": "Business_Element",
+      "properties": {
+        "name": "value proposition",
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"trigger_message\": \"Customer, value proposition, and channel are inconsistent.\", \"impact\": \"Business model is not executable in practice.\", \"fix_task\": \"Redefine target customer OR adjust channel strategy with evidence.\" } 15 条规则 ID（直接建清单） | ID | 规则 | | --- |",
+            "competition": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "Business_Element_0003",
+      "label": "Business_Element",
+      "properties": {
+        "name": "channel",
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"trigger_message\": \"Customer, value proposition, and channel are inconsistent.\", \"impact\": \"Business model is not executable in practice.\", \"fix_task\": \"Redefine target customer OR adjust channel strategy with evidence.\" } 15 条规则 ID（直接建清单） | ID | 规则 | | --- |",
+            "competition": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "Business_Element_0004",
+      "label": "Business_Element",
+      "properties": {
+        "name": "revenue",
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"trigger_message\": \"Customer, value proposition, and channel are inconsistent.\", \"impact\": \"Business model is not executable in practice.\", \"fix_task\": \"Redefine target customer OR adjust channel strategy with evidence.\" } 15 条规则 ID（直接建清单） | ID | 规则 | | --- |",
+            "competition": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "Business_Element_0005",
+      "label": "Business_Element",
+      "properties": {
+        "name": "cost",
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"trigger_message\": \"Customer, value proposition, and channel are inconsistent.\", \"impact\": \"Business model is not executable in practice.\", \"fix_task\": \"Redefine target customer OR adjust channel strategy with evidence.\" } 15 条规则 ID（直接建清单） | ID | 规则 | | --- |",
+            "competition": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "RubricItem_0001",
+      "label": "RubricItem",
+      "properties": {
+        "name": "R1 Problem Definition",
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"FIX_STRATEGY\", \"EXEMPLIFIED_BY\" ] } { \"rubric_items\": [ { \"id\": \"R1\", \"name\": \"Problem Definition\", \"description\": \"Problem is clear, specific, and grounded in real user pain\", \"required_evidence\": [\"User Interview\", \"Survey\"], \"common_mistakes\": [\"Vague prob",
+            "competition": ""
+          }
+        ],
+        "rubric_id": "R1",
+        "description": "Problem is clear, specific, and grounded in real user pain",
+        "weight": 0.1
+      }
+    },
+    {
+      "id": "Evidence_0001",
+      "label": "Evidence",
+      "properties": {
+        "name": "User Interview",
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"FIX_STRATEGY\", \"EXEMPLIFIED_BY\" ] } { \"rubric_items\": [ { \"id\": \"R1\", \"name\": \"Problem Definition\", \"description\": \"Problem is clear, specific, and grounded in real user pain\", \"required_evidence\": [\"User Interview\", \"Survey\"], \"common_mistakes\": [\"Vague prob",
+            "competition": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "Evidence_0002",
+      "label": "Evidence",
+      "properties": {
+        "name": "Survey",
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"FIX_STRATEGY\", \"EXEMPLIFIED_BY\" ] } { \"rubric_items\": [ { \"id\": \"R1\", \"name\": \"Problem Definition\", \"description\": \"Problem is clear, specific, and grounded in real user pain\", \"required_evidence\": [\"User Interview\", \"Survey\"], \"common_mistakes\": [\"Vague prob",
+            "competition": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "Mistake_0001",
+      "label": "Mistake",
+      "properties": {
+        "name": "Vague problem",
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"FIX_STRATEGY\", \"EXEMPLIFIED_BY\" ] } { \"rubric_items\": [ { \"id\": \"R1\", \"name\": \"Problem Definition\", \"description\": \"Problem is clear, specific, and grounded in real user pain\", \"required_evidence\": [\"User Interview\", \"Survey\"], \"common_mistakes\": [\"Vague prob",
+            "competition": ""
+          }
+        ],
+        "category": "rubric_common_mistake"
+      }
+    },
+    {
+      "id": "Mistake_0002",
+      "label": "Mistake",
+      "properties": {
+        "name": "Assumed pain point",
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"FIX_STRATEGY\", \"EXEMPLIFIED_BY\" ] } { \"rubric_items\": [ { \"id\": \"R1\", \"name\": \"Problem Definition\", \"description\": \"Problem is clear, specific, and grounded in real user pain\", \"required_evidence\": [\"User Interview\", \"Survey\"], \"common_mistakes\": [\"Vague prob",
+            "competition": ""
+          }
+        ],
+        "category": "rubric_common_mistake"
+      }
+    },
+    {
+      "id": "RubricItem_0002",
+      "label": "RubricItem",
+      "properties": {
+        "name": "R2 User Evidence Strength",
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"FIX_STRATEGY\", \"EXEMPLIFIED_BY\" ] } { \"rubric_items\": [ { \"id\": \"R1\", \"name\": \"Problem Definition\", \"description\": \"Problem is clear, specific, and grounded in real user pain\", \"required_evidence\": [\"User Interview\", \"Survey\"], \"common_mistakes\": [\"Vague prob",
+            "competition": ""
+          }
+        ],
+        "rubric_id": "R2",
+        "description": "Claims are supported by sufficient and relevant evidence",
+        "weight": 0.15
+      }
+    },
+    {
+      "id": "Evidence_0003",
+      "label": "Evidence",
+      "properties": {
+        "name": "Interview Quotes",
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"FIX_STRATEGY\", \"EXEMPLIFIED_BY\" ] } { \"rubric_items\": [ { \"id\": \"R1\", \"name\": \"Problem Definition\", \"description\": \"Problem is clear, specific, and grounded in real user pain\", \"required_evidence\": [\"User Interview\", \"Survey\"], \"common_mistakes\": [\"Vague prob",
+            "competition": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "Evidence_0004",
+      "label": "Evidence",
+      "properties": {
+        "name": "Behavioral Data",
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"FIX_STRATEGY\", \"EXEMPLIFIED_BY\" ] } { \"rubric_items\": [ { \"id\": \"R1\", \"name\": \"Problem Definition\", \"description\": \"Problem is clear, specific, and grounded in real user pain\", \"required_evidence\": [\"User Interview\", \"Survey\"], \"common_mistakes\": [\"Vague prob",
+            "competition": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "Mistake_0003",
+      "label": "Mistake",
+      "properties": {
+        "name": "Opinion-based validation",
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"FIX_STRATEGY\", \"EXEMPLIFIED_BY\" ] } { \"rubric_items\": [ { \"id\": \"R1\", \"name\": \"Problem Definition\", \"description\": \"Problem is clear, specific, and grounded in real user pain\", \"required_evidence\": [\"User Interview\", \"Survey\"], \"common_mistakes\": [\"Vague prob",
+            "competition": ""
+          }
+        ],
+        "category": "rubric_common_mistake"
+      }
+    },
+    {
+      "id": "RubricItem_0003",
+      "label": "RubricItem",
+      "properties": {
+        "name": "R3 Solution Feasibility",
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"FIX_STRATEGY\", \"EXEMPLIFIED_BY\" ] } { \"rubric_items\": [ { \"id\": \"R1\", \"name\": \"Problem Definition\", \"description\": \"Problem is clear, specific, and grounded in real user pain\", \"required_evidence\": [\"User Interview\", \"Survey\"], \"common_mistakes\": [\"Vague prob",
+            "competition": ""
+          }
+        ],
+        "rubric_id": "R3",
+        "description": "Solution is technically and operationally feasible",
+        "weight": 0.1
+      }
+    },
+    {
+      "id": "Evidence_0005",
+      "label": "Evidence",
+      "properties": {
+        "name": "Technical Roadmap",
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"FIX_STRATEGY\", \"EXEMPLIFIED_BY\" ] } { \"rubric_items\": [ { \"id\": \"R1\", \"name\": \"Problem Definition\", \"description\": \"Problem is clear, specific, and grounded in real user pain\", \"required_evidence\": [\"User Interview\", \"Survey\"], \"common_mistakes\": [\"Vague prob",
+            "competition": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "Evidence_0006",
+      "label": "Evidence",
+      "properties": {
+        "name": "Resource Match",
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"FIX_STRATEGY\", \"EXEMPLIFIED_BY\" ] } { \"rubric_items\": [ { \"id\": \"R1\", \"name\": \"Problem Definition\", \"description\": \"Problem is clear, specific, and grounded in real user pain\", \"required_evidence\": [\"User Interview\", \"Survey\"], \"common_mistakes\": [\"Vague prob",
+            "competition": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "Mistake_0004",
+      "label": "Mistake",
+      "properties": {
+        "name": "Over-engineering",
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"FIX_STRATEGY\", \"EXEMPLIFIED_BY\" ] } { \"rubric_items\": [ { \"id\": \"R1\", \"name\": \"Problem Definition\", \"description\": \"Problem is clear, specific, and grounded in real user pain\", \"required_evidence\": [\"User Interview\", \"Survey\"], \"common_mistakes\": [\"Vague prob",
+            "competition": ""
+          }
+        ],
+        "category": "rubric_common_mistake"
+      }
+    },
+    {
+      "id": "RubricItem_0004",
+      "label": "RubricItem",
+      "properties": {
+        "name": "R4 Business Model Consistency",
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"FIX_STRATEGY\", \"EXEMPLIFIED_BY\" ] } { \"rubric_items\": [ { \"id\": \"R1\", \"name\": \"Problem Definition\", \"description\": \"Problem is clear, specific, and grounded in real user pain\", \"required_evidence\": [\"User Interview\", \"Survey\"], \"common_mistakes\": [\"Vague prob",
+            "competition": ""
+          }
+        ],
+        "rubric_id": "R4",
+        "description": "Customer, value, channel, revenue, and cost are consistent",
+        "weight": 0.15
+      }
+    },
+    {
+      "id": "Evidence_0007",
+      "label": "Evidence",
+      "properties": {
+        "name": "Business Model Canvas",
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"FIX_STRATEGY\", \"EXEMPLIFIED_BY\" ] } { \"rubric_items\": [ { \"id\": \"R1\", \"name\": \"Problem Definition\", \"description\": \"Problem is clear, specific, and grounded in real user pain\", \"required_evidence\": [\"User Interview\", \"Survey\"], \"common_mistakes\": [\"Vague prob",
+            "competition": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "Mistake_0005",
+      "label": "Mistake",
+      "properties": {
+        "name": "Channel-user mismatch",
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"FIX_STRATEGY\", \"EXEMPLIFIED_BY\" ] } { \"rubric_items\": [ { \"id\": \"R1\", \"name\": \"Problem Definition\", \"description\": \"Problem is clear, specific, and grounded in real user pain\", \"required_evidence\": [\"User Interview\", \"Survey\"], \"common_mistakes\": [\"Vague prob",
+            "competition": ""
+          }
+        ],
+        "category": "rubric_common_mistake"
+      }
+    },
+    {
+      "id": "RubricItem_0005",
+      "label": "RubricItem",
+      "properties": {
+        "name": "R5 Market & Competition",
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"FIX_STRATEGY\", \"EXEMPLIFIED_BY\" ] } { \"rubric_items\": [ { \"id\": \"R1\", \"name\": \"Problem Definition\", \"description\": \"Problem is clear, specific, and grounded in real user pain\", \"required_evidence\": [\"User Interview\", \"Survey\"], \"common_mistakes\": [\"Vague prob",
+            "competition": ""
+          }
+        ],
+        "rubric_id": "R5",
+        "description": "Market sizing and competition analysis are reasonable",
+        "weight": 0.1
+      }
+    },
+    {
+      "id": "Evidence_0008",
+      "label": "Evidence",
+      "properties": {
+        "name": "TAM/SAM/SOM",
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"FIX_STRATEGY\", \"EXEMPLIFIED_BY\" ] } { \"rubric_items\": [ { \"id\": \"R1\", \"name\": \"Problem Definition\", \"description\": \"Problem is clear, specific, and grounded in real user pain\", \"required_evidence\": [\"User Interview\", \"Survey\"], \"common_mistakes\": [\"Vague prob",
+            "competition": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "Evidence_0009",
+      "label": "Evidence",
+      "properties": {
+        "name": "Competitor Table",
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"FIX_STRATEGY\", \"EXEMPLIFIED_BY\" ] } { \"rubric_items\": [ { \"id\": \"R1\", \"name\": \"Problem Definition\", \"description\": \"Problem is clear, specific, and grounded in real user pain\", \"required_evidence\": [\"User Interview\", \"Survey\"], \"common_mistakes\": [\"Vague prob",
+            "competition": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "Mistake_0006",
+      "label": "Mistake",
+      "properties": {
+        "name": "Inflated market size",
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"FIX_STRATEGY\", \"EXEMPLIFIED_BY\" ] } { \"rubric_items\": [ { \"id\": \"R1\", \"name\": \"Problem Definition\", \"description\": \"Problem is clear, specific, and grounded in real user pain\", \"required_evidence\": [\"User Interview\", \"Survey\"], \"common_mistakes\": [\"Vague prob",
+            "competition": ""
+          }
+        ],
+        "category": "rubric_common_mistake"
+      }
+    },
+    {
+      "id": "RubricItem_0006",
+      "label": "RubricItem",
+      "properties": {
+        "name": "R6 Financial Logic",
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"FIX_STRATEGY\", \"EXEMPLIFIED_BY\" ] } { \"rubric_items\": [ { \"id\": \"R1\", \"name\": \"Problem Definition\", \"description\": \"Problem is clear, specific, and grounded in real user pain\", \"required_evidence\": [\"User Interview\", \"Survey\"], \"common_mistakes\": [\"Vague prob",
+            "competition": ""
+          }
+        ],
+        "rubric_id": "R6",
+        "description": "Unit economics and financial assumptions are reasonable",
+        "weight": 0.1
+      }
+    },
+    {
+      "id": "Evidence_0010",
+      "label": "Evidence",
+      "properties": {
+        "name": "Unit Economics",
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"FIX_STRATEGY\", \"EXEMPLIFIED_BY\" ] } { \"rubric_items\": [ { \"id\": \"R1\", \"name\": \"Problem Definition\", \"description\": \"Problem is clear, specific, and grounded in real user pain\", \"required_evidence\": [\"User Interview\", \"Survey\"], \"common_mistakes\": [\"Vague prob",
+            "competition": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "Evidence_0011",
+      "label": "Evidence",
+      "properties": {
+        "name": "Cash Flow",
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"FIX_STRATEGY\", \"EXEMPLIFIED_BY\" ] } { \"rubric_items\": [ { \"id\": \"R1\", \"name\": \"Problem Definition\", \"description\": \"Problem is clear, specific, and grounded in real user pain\", \"required_evidence\": [\"User Interview\", \"Survey\"], \"common_mistakes\": [\"Vague prob",
+            "competition": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "Mistake_0007",
+      "label": "Mistake",
+      "properties": {
+        "name": "LTV < CAC",
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"FIX_STRATEGY\", \"EXEMPLIFIED_BY\" ] } { \"rubric_items\": [ { \"id\": \"R1\", \"name\": \"Problem Definition\", \"description\": \"Problem is clear, specific, and grounded in real user pain\", \"required_evidence\": [\"User Interview\", \"Survey\"], \"common_mistakes\": [\"Vague prob",
+            "competition": ""
+          }
+        ],
+        "category": "rubric_common_mistake"
+      }
+    },
+    {
+      "id": "RubricItem_0007",
+      "label": "RubricItem",
+      "properties": {
+        "name": "R7 Innovation & Differentiation",
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"FIX_STRATEGY\", \"EXEMPLIFIED_BY\" ] } { \"rubric_items\": [ { \"id\": \"R1\", \"name\": \"Problem Definition\", \"description\": \"Problem is clear, specific, and grounded in real user pain\", \"required_evidence\": [\"User Interview\", \"Survey\"], \"common_mistakes\": [\"Vague prob",
+            "competition": ""
+          }
+        ],
+        "rubric_id": "R7",
+        "description": "Clear differentiation with verifiable advantages",
+        "weight": 0.1
+      }
+    },
+    {
+      "id": "Evidence_0012",
+      "label": "Evidence",
+      "properties": {
+        "name": "Comparison Matrix",
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"FIX_STRATEGY\", \"EXEMPLIFIED_BY\" ] } { \"rubric_items\": [ { \"id\": \"R1\", \"name\": \"Problem Definition\", \"description\": \"Problem is clear, specific, and grounded in real user pain\", \"required_evidence\": [\"User Interview\", \"Survey\"], \"common_mistakes\": [\"Vague prob",
+            "competition": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "Mistake_0008",
+      "label": "Mistake",
+      "properties": {
+        "name": "Pseudo-innovation",
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"FIX_STRATEGY\", \"EXEMPLIFIED_BY\" ] } { \"rubric_items\": [ { \"id\": \"R1\", \"name\": \"Problem Definition\", \"description\": \"Problem is clear, specific, and grounded in real user pain\", \"required_evidence\": [\"User Interview\", \"Survey\"], \"common_mistakes\": [\"Vague prob",
+            "competition": ""
+          }
+        ],
+        "category": "rubric_common_mistake"
+      }
+    },
+    {
+      "id": "RubricItem_0008",
+      "label": "RubricItem",
+      "properties": {
+        "name": "R8 Team & Execution",
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"FIX_STRATEGY\", \"EXEMPLIFIED_BY\" ] } { \"rubric_items\": [ { \"id\": \"R1\", \"name\": \"Problem Definition\", \"description\": \"Problem is clear, specific, and grounded in real user pain\", \"required_evidence\": [\"User Interview\", \"Survey\"], \"common_mistakes\": [\"Vague prob",
+            "competition": ""
+          }
+        ],
+        "rubric_id": "R8",
+        "description": "Team capability matches project ambition",
+        "weight": 0.05
+      }
+    },
+    {
+      "id": "Evidence_0013",
+      "label": "Evidence",
+      "properties": {
+        "name": "Team Profile",
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"FIX_STRATEGY\", \"EXEMPLIFIED_BY\" ] } { \"rubric_items\": [ { \"id\": \"R1\", \"name\": \"Problem Definition\", \"description\": \"Problem is clear, specific, and grounded in real user pain\", \"required_evidence\": [\"User Interview\", \"Survey\"], \"common_mistakes\": [\"Vague prob",
+            "competition": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "Evidence_0014",
+      "label": "Evidence",
+      "properties": {
+        "name": "Milestones",
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"FIX_STRATEGY\", \"EXEMPLIFIED_BY\" ] } { \"rubric_items\": [ { \"id\": \"R1\", \"name\": \"Problem Definition\", \"description\": \"Problem is clear, specific, and grounded in real user pain\", \"required_evidence\": [\"User Interview\", \"Survey\"], \"common_mistakes\": [\"Vague prob",
+            "competition": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "Mistake_0009",
+      "label": "Mistake",
+      "properties": {
+        "name": "Skill mismatch",
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"FIX_STRATEGY\", \"EXEMPLIFIED_BY\" ] } { \"rubric_items\": [ { \"id\": \"R1\", \"name\": \"Problem Definition\", \"description\": \"Problem is clear, specific, and grounded in real user pain\", \"required_evidence\": [\"User Interview\", \"Survey\"], \"common_mistakes\": [\"Vague prob",
+            "competition": ""
+          }
+        ],
+        "category": "rubric_common_mistake"
+      }
+    },
+    {
+      "id": "RubricItem_0009",
+      "label": "RubricItem",
+      "properties": {
+        "name": "R9 Presentation & Material Quality",
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"FIX_STRATEGY\", \"EXEMPLIFIED_BY\" ] } { \"rubric_items\": [ { \"id\": \"R1\", \"name\": \"Problem Definition\", \"description\": \"Problem is clear, specific, and grounded in real user pain\", \"required_evidence\": [\"User Interview\", \"Survey\"], \"common_mistakes\": [\"Vague prob",
+            "competition": ""
+          }
+        ],
+        "rubric_id": "R9",
+        "description": "Materials are clear, logical, and persuasive",
+        "weight": 0.05
+      }
+    },
+    {
+      "id": "Evidence_0015",
+      "label": "Evidence",
+      "properties": {
+        "name": "Pitch Deck",
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"FIX_STRATEGY\", \"EXEMPLIFIED_BY\" ] } { \"rubric_items\": [ { \"id\": \"R1\", \"name\": \"Problem Definition\", \"description\": \"Problem is clear, specific, and grounded in real user pain\", \"required_evidence\": [\"User Interview\", \"Survey\"], \"common_mistakes\": [\"Vague prob",
+            "competition": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "Mistake_0010",
+      "label": "Mistake",
+      "properties": {
+        "name": "Story breaks",
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"FIX_STRATEGY\", \"EXEMPLIFIED_BY\" ] } { \"rubric_items\": [ { \"id\": \"R1\", \"name\": \"Problem Definition\", \"description\": \"Problem is clear, specific, and grounded in real user pain\", \"required_evidence\": [\"User Interview\", \"Survey\"], \"common_mistakes\": [\"Vague prob",
+            "competition": ""
+          }
+        ],
+        "category": "rubric_common_mistake"
+      }
+    },
+    {
+      "id": "Mistake_0011",
+      "label": "Mistake",
+      "properties": {
+        "name": "H1 客户-价值主张错位",
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"trigger_message\": \"Customer, value proposition, and channel are inconsistent.\", \"impact\": \"Business model is not executable in practice.\", \"fix_task\": \"Redefine target customer OR adjust channel strategy with evidence.\" } 15 条规则 ID（直接建清单） | ID | 规则 | | --- |",
+            "competition": ""
+          }
+        ],
+        "rule_id": "H1",
+        "severity": "high",
+        "category": "consistency_rule",
+        "trigger_message": "Customer, value proposition, and channel are inconsistent.",
+        "impact": "Business model is not executable in practice."
+      }
+    },
+    {
+      "id": "Mistake_0012",
+      "label": "Mistake",
+      "properties": {
+        "name": "H2 渠道不可达",
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"trigger_message\": \"Customer, value proposition, and channel are inconsistent.\", \"impact\": \"Business model is not executable in practice.\", \"fix_task\": \"Redefine target customer OR adjust channel strategy with evidence.\" } 15 条规则 ID（直接建清单） | ID | 规则 | | --- |",
+            "competition": ""
+          }
+        ],
+        "rule_id": "H2",
+        "severity": "high",
+        "category": "consistency_rule",
+        "trigger_message": "",
+        "impact": ""
+      }
+    },
+    {
+      "id": "Mistake_0013",
+      "label": "Mistake",
+      "properties": {
+        "name": "H3 定价无支付意愿证据",
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"trigger_message\": \"Customer, value proposition, and channel are inconsistent.\", \"impact\": \"Business model is not executable in practice.\", \"fix_task\": \"Redefine target customer OR adjust channel strategy with evidence.\" } 15 条规则 ID（直接建清单） | ID | 规则 | | --- |",
+            "competition": ""
+          }
+        ],
+        "rule_id": "H3",
+        "severity": "high",
+        "category": "consistency_rule",
+        "trigger_message": "",
+        "impact": ""
+      }
+    },
+    {
+      "id": "Mistake_0014",
+      "label": "Mistake",
+      "properties": {
+        "name": "H4 TAM/SAM/SOM 口径混乱",
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"trigger_message\": \"Customer, value proposition, and channel are inconsistent.\", \"impact\": \"Business model is not executable in practice.\", \"fix_task\": \"Redefine target customer OR adjust channel strategy with evidence.\" } 15 条规则 ID（直接建清单） | ID | 规则 | | --- |",
+            "competition": ""
+          }
+        ],
+        "rule_id": "H4",
+        "severity": "high",
+        "category": "consistency_rule",
+        "trigger_message": "",
+        "impact": ""
+      }
+    },
+    {
+      "id": "Mistake_0015",
+      "label": "Mistake",
+      "properties": {
+        "name": "H5 需求证据不足",
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"trigger_message\": \"Customer, value proposition, and channel are inconsistent.\", \"impact\": \"Business model is not executable in practice.\", \"fix_task\": \"Redefine target customer OR adjust channel strategy with evidence.\" } 15 条规则 ID（直接建清单） | ID | 规则 | | --- |",
+            "competition": ""
+          }
+        ],
+        "rule_id": "H5",
+        "severity": "high",
+        "category": "consistency_rule",
+        "trigger_message": "",
+        "impact": ""
+      }
+    },
+    {
+      "id": "Mistake_0016",
+      "label": "Mistake",
+      "properties": {
+        "name": "H6 竞品对比不可比",
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"trigger_message\": \"Customer, value proposition, and channel are inconsistent.\", \"impact\": \"Business model is not executable in practice.\", \"fix_task\": \"Redefine target customer OR adjust channel strategy with evidence.\" } 15 条规则 ID（直接建清单） | ID | 规则 | | --- |",
+            "competition": ""
+          }
+        ],
+        "rule_id": "H6",
+        "severity": "high",
+        "category": "consistency_rule",
+        "trigger_message": "",
+        "impact": ""
+      }
+    },
+    {
+      "id": "Mistake_0017",
+      "label": "Mistake",
+      "properties": {
+        "name": "H7 创新点不可验证",
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"trigger_message\": \"Customer, value proposition, and channel are inconsistent.\", \"impact\": \"Business model is not executable in practice.\", \"fix_task\": \"Redefine target customer OR adjust channel strategy with evidence.\" } 15 条规则 ID（直接建清单） | ID | 规则 | | --- |",
+            "competition": ""
+          }
+        ],
+        "rule_id": "H7",
+        "severity": "high",
+        "category": "consistency_rule",
+        "trigger_message": "",
+        "impact": ""
+      }
+    },
+    {
+      "id": "Mistake_0018",
+      "label": "Mistake",
+      "properties": {
+        "name": "H8 单位经济不成立",
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"trigger_message\": \"Customer, value proposition, and channel are inconsistent.\", \"impact\": \"Business model is not executable in practice.\", \"fix_task\": \"Redefine target customer OR adjust channel strategy with evidence.\" } 15 条规则 ID（直接建清单） | ID | 规则 | | --- |",
+            "competition": ""
+          }
+        ],
+        "rule_id": "H8",
+        "severity": "high",
+        "category": "consistency_rule",
+        "trigger_message": "",
+        "impact": ""
+      }
+    },
+    {
+      "id": "Mistake_0019",
+      "label": "Mistake",
+      "properties": {
+        "name": "H9 增长逻辑跳跃",
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"trigger_message\": \"Customer, value proposition, and channel are inconsistent.\", \"impact\": \"Business model is not executable in practice.\", \"fix_task\": \"Redefine target customer OR adjust channel strategy with evidence.\" } 15 条规则 ID（直接建清单） | ID | 规则 | | --- |",
+            "competition": ""
+          }
+        ],
+        "rule_id": "H9",
+        "severity": "medium",
+        "category": "consistency_rule",
+        "trigger_message": "",
+        "impact": ""
+      }
+    },
+    {
+      "id": "Mistake_0020",
+      "label": "Mistake",
+      "properties": {
+        "name": "H10 里程碑不可交付",
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"trigger_message\": \"Customer, value proposition, and channel are inconsistent.\", \"impact\": \"Business model is not executable in practice.\", \"fix_task\": \"Redefine target customer OR adjust channel strategy with evidence.\" } 15 条规则 ID（直接建清单） | ID | 规则 | | --- |",
+            "competition": ""
+          }
+        ],
+        "rule_id": "H10",
+        "severity": "high",
+        "category": "consistency_rule",
+        "trigger_message": "",
+        "impact": ""
+      }
+    },
+    {
+      "id": "Mistake_0021",
+      "label": "Mistake",
+      "properties": {
+        "name": "H11 合规/伦理缺口",
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"trigger_message\": \"Customer, value proposition, and channel are inconsistent.\", \"impact\": \"Business model is not executable in practice.\", \"fix_task\": \"Redefine target customer OR adjust channel strategy with evidence.\" } 15 条规则 ID（直接建清单） | ID | 规则 | | --- |",
+            "competition": ""
+          }
+        ],
+        "rule_id": "H11",
+        "severity": "high",
+        "category": "consistency_rule",
+        "trigger_message": "",
+        "impact": ""
+      }
+    },
+    {
+      "id": "Mistake_0022",
+      "label": "Mistake",
+      "properties": {
+        "name": "H12 技术路线与资源不匹配",
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"trigger_message\": \"Customer, value proposition, and channel are inconsistent.\", \"impact\": \"Business model is not executable in practice.\", \"fix_task\": \"Redefine target customer OR adjust channel strategy with evidence.\" } 15 条规则 ID（直接建清单） | ID | 规则 | | --- |",
+            "competition": ""
+          }
+        ],
+        "rule_id": "H12",
+        "severity": "high",
+        "category": "consistency_rule",
+        "trigger_message": "",
+        "impact": ""
+      }
+    },
+    {
+      "id": "Mistake_0023",
+      "label": "Mistake",
+      "properties": {
+        "name": "H13 实验设计不合格",
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"trigger_message\": \"Customer, value proposition, and channel are inconsistent.\", \"impact\": \"Business model is not executable in practice.\", \"fix_task\": \"Redefine target customer OR adjust channel strategy with evidence.\" } 15 条规则 ID（直接建清单） | ID | 规则 | | --- |",
+            "competition": ""
+          }
+        ],
+        "rule_id": "H13",
+        "severity": "high",
+        "category": "consistency_rule",
+        "trigger_message": "",
+        "impact": ""
+      }
+    },
+    {
+      "id": "Mistake_0024",
+      "label": "Mistake",
+      "properties": {
+        "name": "H14 路演叙事断裂",
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"trigger_message\": \"Customer, value proposition, and channel are inconsistent.\", \"impact\": \"Business model is not executable in practice.\", \"fix_task\": \"Redefine target customer OR adjust channel strategy with evidence.\" } 15 条规则 ID（直接建清单） | ID | 规则 | | --- |",
+            "competition": ""
+          }
+        ],
+        "rule_id": "H14",
+        "severity": "medium",
+        "category": "consistency_rule",
+        "trigger_message": "",
+        "impact": ""
+      }
+    },
+    {
+      "id": "Mistake_0025",
+      "label": "Mistake",
+      "properties": {
+        "name": "H15 评分项证据覆盖不足",
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"trigger_message\": \"Customer, value proposition, and channel are inconsistent.\", \"impact\": \"Business model is not executable in practice.\", \"fix_task\": \"Redefine target customer OR adjust channel strategy with evidence.\" } 15 条规则 ID（直接建清单） | ID | 规则 | | --- |",
+            "competition": ""
+          }
+        ],
+        "rule_id": "H15",
+        "severity": "high",
+        "category": "consistency_rule",
+        "trigger_message": "",
+        "impact": ""
+      }
+    },
+    {
+      "id": "Resource_0001",
+      "label": "Resource",
+      "properties": {
+        "name": "实验室",
+        "source": [
+          {
+            "file": "source_v1.doc",
+            "text": "3.多模态扩展： 2026 年的智能体可以不仅分析文字，还能分析学生上传的 BP 演讲视频，根据其语速和神态判断其\"信心程度\"，从而动态调整追问的\"毒舌等级\"。 为了让智能体能够精准地在超图中\"漫游\"并提取导师建议，我们需要定义一套标准化的 Schema（模式）。超图与普通图的最大区别在于，超边可以包含一组节点，这非常适合表示**\"创业情境（Entrepreneurship Context）\"**。 以下是为您设计的超图数据 Schema 定义： 1. 节点定义 (Nodes: The Entities) 节点是双",
+            "competition": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "Resource_0002",
+      "label": "Resource",
+      "properties": {
+        "name": "科技补贴",
+        "source": [
+          {
+            "file": "source_v1.doc",
+            "text": "3.多模态扩展： 2026 年的智能体可以不仅分析文字，还能分析学生上传的 BP 演讲视频，根据其语速和神态判断其\"信心程度\"，从而动态调整追问的\"毒舌等级\"。 为了让智能体能够精准地在超图中\"漫游\"并提取导师建议，我们需要定义一套标准化的 Schema（模式）。超图与普通图的最大区别在于，超边可以包含一组节点，这非常适合表示**\"创业情境（Entrepreneurship Context）\"**。 以下是为您设计的超图数据 Schema 定义： 1. 节点定义 (Nodes: The Entities) 节点是双",
+            "competition": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "Resource_0003",
+      "label": "Resource",
+      "properties": {
+        "name": "政策资源",
+        "source": [
+          {
+            "file": "source_v1.doc",
+            "text": "3.多模态扩展： 2026 年的智能体可以不仅分析文字，还能分析学生上传的 BP 演讲视频，根据其语速和神态判断其\"信心程度\"，从而动态调整追问的\"毒舌等级\"。 为了让智能体能够精准地在超图中\"漫游\"并提取导师建议，我们需要定义一套标准化的 Schema（模式）。超图与普通图的最大区别在于，超边可以包含一组节点，这非常适合表示**\"创业情境（Entrepreneurship Context）\"**。 以下是为您设计的超图数据 Schema 定义： 1. 节点定义 (Nodes: The Entities) 节点是双",
+            "competition": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "Participant_0001",
+      "label": "Participant",
+      "properties": {
+        "name": "学生团队",
+        "source": [
+          {
+            "file": "source_v1.doc",
+            "text": "3.多模态扩展： 2026 年的智能体可以不仅分析文字，还能分析学生上传的 BP 演讲视频，根据其语速和神态判断其\"信心程度\"，从而动态调整追问的\"毒舌等级\"。 为了让智能体能够精准地在超图中\"漫游\"并提取导师建议，我们需要定义一套标准化的 Schema（模式）。超图与普通图的最大区别在于，超边可以包含一组节点，这非常适合表示**\"创业情境（Entrepreneurship Context）\"**。 以下是为您设计的超图数据 Schema 定义： 1. 节点定义 (Nodes: The Entities) 节点是双",
+            "competition": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "Project_0001",
+      "label": "Project",
+      "properties": {
+        "name": "V1 Sample Project",
+        "source": [
+          {
+            "file": "source_v1.doc",
+            "text": "如何测试这个提示词？ 当您将这段 Prompt 输入系统后，可以尝试用一个典型的\"学生式\"开场白来测试它： 测试输入： \"老师好，我计划开发一个基于 AI 的二手课本交易平台，专门针对北京的留学生，目前市场上没有人在做这个，我觉得潜力巨大。\" 理想的 AI 反应： 1. 不会说： \"这个想法很好，你应该做 App。\"",
+            "competition": ""
+          }
+        ],
+        "stage": "ideation"
+      }
+    },
+    {
+      "id": "Market_0001",
+      "label": "Market",
+      "properties": {
+        "name": "跨境金融数据安全",
+        "source": [
+          {
+            "file": "source_v1.doc",
+            "text": "如何测试这个提示词？ 当您将这段 Prompt 输入系统后，可以尝试用一个典型的\"学生式\"开场白来测试它： 测试输入： \"老师好，我计划开发一个基于 AI 的二手课本交易平台，专门针对北京的留学生，目前市场上没有人在做这个，我觉得潜力巨大。\" 理想的 AI 反应： 1. 不会说： \"这个想法很好，你应该做 App。\"",
+            "competition": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "Technology_0001",
+      "label": "Technology",
+      "properties": {
+        "name": "量子加密算法",
+        "source": [
+          {
+            "file": "source_v1.doc",
+            "text": "如何测试这个提示词？ 当您将这段 Prompt 输入系统后，可以尝试用一个典型的\"学生式\"开场白来测试它： 测试输入： \"老师好，我计划开发一个基于 AI 的二手课本交易平台，专门针对北京的留学生，目前市场上没有人在做这个，我觉得潜力巨大。\" 理想的 AI 反应： 1. 不会说： \"这个想法很好，你应该做 App。\"",
+            "competition": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "Outcome_0001",
+      "label": "Outcome",
+      "properties": {
+        "name": "Fail: 交付周期过长",
+        "source": [
+          {
+            "file": "source_v1.doc",
+            "text": "如何测试这个提示词？ 当您将这段 Prompt 输入系统后，可以尝试用一个典型的\"学生式\"开场白来测试它： 测试输入： \"老师好，我计划开发一个基于 AI 的二手课本交易平台，专门针对北京的留学生，目前市场上没有人在做这个，我觉得潜力巨大。\" 理想的 AI 反应： 1. 不会说： \"这个想法很好，你应该做 App。\"",
+            "competition": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "Location_0001",
+      "label": "Location",
+      "properties": {
+        "name": "British Columbia",
+        "source": [
+          {
+            "file": "source_v1.doc",
+            "text": "如何测试这个提示词？ 当您将这段 Prompt 输入系统后，可以尝试用一个典型的\"学生式\"开场白来测试它： 测试输入： \"老师好，我计划开发一个基于 AI 的二手课本交易平台，专门针对北京的留学生，目前市场上没有人在做这个，我觉得潜力巨大。\" 理想的 AI 反应： 1. 不会说： \"这个想法很好，你应该做 App。\"",
+            "competition": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "Project_0002",
+      "label": "Project",
+      "properties": {
+        "name": "AI二手课本交易平台",
+        "source": [
+          {
+            "file": "source_v1.doc",
+            "text": "如何测试这个提示词？ 当您将这段 Prompt 输入系统后，可以尝试用一个典型的\"学生式\"开场白来测试它： 测试输入： \"老师好，我计划开发一个基于 AI 的二手课本交易平台，专门针对北京的留学生，目前市场上没有人在做这个，我觉得潜力巨大。\" 理想的 AI 反应： 1. 不会说： \"这个想法很好，你应该做 App。\"",
+            "competition": ""
+          }
+        ],
+        "stage": "ideation"
+      }
+    },
+    {
+      "id": "Market_0002",
+      "label": "Market",
+      "properties": {
+        "name": "北京的留学生",
+        "source": [
+          {
+            "file": "source_v1.doc",
+            "text": "如何测试这个提示词？ 当您将这段 Prompt 输入系统后，可以尝试用一个典型的\"学生式\"开场白来测试它： 测试输入： \"老师好，我计划开发一个基于 AI 的二手课本交易平台，专门针对北京的留学生，目前市场上没有人在做这个，我觉得潜力巨大。\" 理想的 AI 反应： 1. 不会说： \"这个想法很好，你应该做 App。\"",
+            "competition": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "Technology_0002",
+      "label": "Technology",
+      "properties": {
+        "name": "AI",
+        "source": [
+          {
+            "file": "source_v1.doc",
+            "text": "如何测试这个提示词？ 当您将这段 Prompt 输入系统后，可以尝试用一个典型的\"学生式\"开场白来测试它： 测试输入： \"老师好，我计划开发一个基于 AI 的二手课本交易平台，专门针对北京的留学生，目前市场上没有人在做这个，我觉得潜力巨大。\" 理想的 AI 反应： 1. 不会说： \"这个想法很好，你应该做 App。\"",
+            "competition": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "Outcome_0002",
+      "label": "Outcome",
+      "properties": {
+        "name": "进行中",
+        "source": [
+          {
+            "file": "source_v1.doc",
+            "text": "如何测试这个提示词？ 当您将这段 Prompt 输入系统后，可以尝试用一个典型的\"学生式\"开场白来测试它： 测试输入： \"老师好，我计划开发一个基于 AI 的二手课本交易平台，专门针对北京的留学生，目前市场上没有人在做这个，我觉得潜力巨大。\" 理想的 AI 反应： 1. 不会说： \"这个想法很好，你应该做 App。\"",
+            "competition": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "Location_0002",
+      "label": "Location",
+      "properties": {
+        "name": "北京",
+        "source": [
+          {
+            "file": "source_v1.doc",
+            "text": "如何测试这个提示词？ 当您将这段 Prompt 输入系统后，可以尝试用一个典型的\"学生式\"开场白来测试它： 测试输入： \"老师好，我计划开发一个基于 AI 的二手课本交易平台，专门针对北京的留学生，目前市场上没有人在做这个，我觉得潜力巨大。\" 理想的 AI 反应： 1. 不会说： \"这个想法很好，你应该做 App。\"",
+            "competition": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "Artifact_0006",
+      "label": "Artifact",
+      "properties": {
+        "name": "Competitor Table",
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "{ \"node_types\": { \"Concept\": [\"PMF\", \"TAM\", \"SAM\", \"SOM\", \"Value Proposition\", \"Moat\", \"Pricing\"], \"Method\": [\"Lean Canvas\", \"JTBD\", \"AARRR\", \"SWOT\", \"BCG\"], \"Task\": [\"User Interview\", \"Survey\", \"Competitor Analysis\", \"MVP Design\", \"Experiment\"], \"Artifact\": [",
+            "competition": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "Concept_0008",
+      "label": "Concept",
+      "properties": {
+        "name": "Channel",
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"trigger_message\": \"Customer, value proposition, and channel are inconsistent.\", \"impact\": \"Business model is not executable in practice.\", \"fix_task\": \"Redefine target customer OR adjust channel strategy with evidence.\" } 15 条规则 ID（直接建清单） | ID | 规则 | | --- |",
+            "competition": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "Concept_0009",
+      "label": "Concept",
+      "properties": {
+        "name": "Compliance & Ethics",
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"trigger_message\": \"Customer, value proposition, and channel are inconsistent.\", \"impact\": \"Business model is not executable in practice.\", \"fix_task\": \"Redefine target customer OR adjust channel strategy with evidence.\" } 15 条规则 ID（直接建清单） | ID | 规则 | | --- |",
+            "competition": ""
+          }
+        ]
+      }
+    }
+  ]
+}

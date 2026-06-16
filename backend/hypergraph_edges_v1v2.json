@@ -1,0 +1,564 @@
+{
+  "hyperedges": [
+    {
+      "id": "HE_RP_001",
+      "type": "RiskPattern",
+      "member_node_ids": [
+        "Project_0001",
+        "Market_0001",
+        "Outcome_0001",
+        "Mistake_0011",
+        "Business_Element_0001",
+        "Business_Element_0002",
+        "Business_Element_0003",
+        "Business_Element_0004",
+        "Business_Element_0005"
+      ],
+      "properties": {
+        "evidence": {
+          "file": "source_v2.doc",
+          "text": "H1 客户-价值主张错位",
+          "competition": "",
+          "edge_origin": "Risk_Pattern_Edge",
+          "member_labels": [
+            "Project",
+            "Market",
+            "Outcome",
+            "Business_Element"
+          ],
+          "rule_id": "H1",
+          "severity": "high"
+        }
+      }
+    },
+    {
+      "id": "HE_RP_004",
+      "type": "RiskPattern",
+      "member_node_ids": [
+        "Project_0001",
+        "Market_0001",
+        "Outcome_0001",
+        "Mistake_0014",
+        "Concept_0002",
+        "Concept_0003",
+        "Concept_0004"
+      ],
+      "properties": {
+        "evidence": {
+          "file": "source_v2.doc",
+          "text": "H4 TAM/SAM/SOM 口径混乱",
+          "competition": "",
+          "edge_origin": "Risk_Pattern_Edge",
+          "member_labels": [
+            "Project",
+            "Market",
+            "Outcome",
+            "Business_Element"
+          ],
+          "rule_id": "H4",
+          "severity": "high"
+        }
+      }
+    },
+    {
+      "id": "HE_RP_015",
+      "type": "RiskPattern",
+      "member_node_ids": [
+        "Project_0001",
+        "Market_0001",
+        "Outcome_0001",
+        "Mistake_0025",
+        "RubricItem_0001",
+        "RubricItem_0004"
+      ],
+      "properties": {
+        "evidence": {
+          "file": "source_v2.doc",
+          "text": "H15 评分项证据覆盖不足",
+          "competition": "",
+          "edge_origin": "Risk_Pattern_Edge",
+          "member_labels": [
+            "Project",
+            "Market",
+            "Outcome",
+            "Business_Element"
+          ],
+          "rule_id": "H15",
+          "severity": "high"
+        }
+      }
+    },
+    {
+      "id": "HE_RP_003",
+      "type": "RiskPattern",
+      "member_node_ids": [
+        "Project_0001",
+        "Market_0001",
+        "Outcome_0001",
+        "Mistake_0013",
+        "Concept_0007",
+        "Evidence_0003"
+      ],
+      "properties": {
+        "evidence": {
+          "file": "source_v2.doc",
+          "text": "H3 定价无支付意愿证据",
+          "competition": "",
+          "edge_origin": "Risk_Pattern_Edge",
+          "member_labels": [
+            "Project",
+            "Market",
+            "Outcome",
+            "Business_Element"
+          ],
+          "rule_id": "H3",
+          "severity": "high"
+        }
+      }
+    },
+    {
+      "id": "HE_RP_010",
+      "type": "RiskPattern",
+      "member_node_ids": [
+        "Project_0001",
+        "Market_0001",
+        "Outcome_0001",
+        "Mistake_0020",
+        "Task_0004",
+        "Evidence_0014"
+      ],
+      "properties": {
+        "evidence": {
+          "file": "source_v2.doc",
+          "text": "H10 里程碑不可交付",
+          "competition": "",
+          "edge_origin": "Risk_Pattern_Edge",
+          "member_labels": [
+            "Project",
+            "Market",
+            "Outcome",
+            "Business_Element"
+          ],
+          "rule_id": "H10",
+          "severity": "high"
+        }
+      }
+    },
+    {
+      "id": "HE_RP_013",
+      "type": "RiskPattern",
+      "member_node_ids": [
+        "Project_0001",
+        "Market_0001",
+        "Outcome_0001",
+        "Mistake_0023",
+        "Task_0005",
+        "Method_0002"
+      ],
+      "properties": {
+        "evidence": {
+          "file": "source_v2.doc",
+          "text": "H13 实验设计不合格",
+          "competition": "",
+          "edge_origin": "Risk_Pattern_Edge",
+          "member_labels": [
+            "Project",
+            "Market",
+            "Outcome",
+            "Business_Element"
+          ],
+          "rule_id": "H13",
+          "severity": "high"
+        }
+      }
+    },
+    {
+      "id": "HE_RP_006",
+      "type": "RiskPattern",
+      "member_node_ids": [
+        "Project_0001",
+        "Market_0001",
+        "Outcome_0001",
+        "Mistake_0016",
+        "Task_0003",
+        "Artifact_0006"
+      ],
+      "properties": {
+        "evidence": {
+          "file": "source_v2.doc",
+          "text": "H6 竞品对比不可比",
+          "competition": "",
+          "edge_origin": "Risk_Pattern_Edge",
+          "member_labels": [
+            "Project",
+            "Market",
+            "Outcome",
+            "Business_Element"
+          ],
+          "rule_id": "H6",
+          "severity": "high"
+        }
+      }
+    },
+    {
+      "id": "HE_RP_007",
+      "type": "RiskPattern",
+      "member_node_ids": [
+        "Project_0001",
+        "Market_0001",
+        "Outcome_0001",
+        "Mistake_0017",
+        "Concept_0006",
+        "Evidence_0012"
+      ],
+      "properties": {
+        "evidence": {
+          "file": "source_v2.doc",
+          "text": "H7 创新点不可验证",
+          "competition": "",
+          "edge_origin": "Risk_Pattern_Edge",
+          "member_labels": [
+            "Project",
+            "Market",
+            "Outcome",
+            "Business_Element"
+          ],
+          "rule_id": "H7",
+          "severity": "high"
+        }
+      }
+    },
+    {
+      "id": "HE_RP_008",
+      "type": "RiskPattern",
+      "member_node_ids": [
+        "Project_0001",
+        "Market_0001",
+        "Outcome_0001",
+        "Mistake_0018",
+        "Metric_0001",
+        "Metric_0002"
+      ],
+      "properties": {
+        "evidence": {
+          "file": "source_v2.doc",
+          "text": "H8 单位经济不成立",
+          "competition": "",
+          "edge_origin": "Risk_Pattern_Edge",
+          "member_labels": [
+            "Project",
+            "Market",
+            "Outcome",
+            "Business_Element"
+          ],
+          "rule_id": "H8",
+          "severity": "high"
+        }
+      }
+    },
+    {
+      "id": "HE_RP_005",
+      "type": "RiskPattern",
+      "member_node_ids": [
+        "Project_0001",
+        "Market_0001",
+        "Outcome_0001",
+        "Mistake_0015",
+        "Evidence_0001",
+        "Evidence_0002"
+      ],
+      "properties": {
+        "evidence": {
+          "file": "source_v2.doc",
+          "text": "H5 需求证据不足",
+          "competition": "",
+          "edge_origin": "Risk_Pattern_Edge",
+          "member_labels": [
+            "Project",
+            "Market",
+            "Outcome",
+            "Business_Element"
+          ],
+          "rule_id": "H5",
+          "severity": "high"
+        }
+      }
+    },
+    {
+      "id": "HE_RP_009",
+      "type": "RiskPattern",
+      "member_node_ids": [
+        "Project_0001",
+        "Market_0001",
+        "Outcome_0001",
+        "Mistake_0019",
+        "Method_0003",
+        "Metric_0003"
+      ],
+      "properties": {
+        "evidence": {
+          "file": "source_v2.doc",
+          "text": "H9 增长逻辑跳跃",
+          "competition": "",
+          "edge_origin": "Risk_Pattern_Edge",
+          "member_labels": [
+            "Project",
+            "Market",
+            "Outcome",
+            "Business_Element"
+          ],
+          "rule_id": "H9",
+          "severity": "medium"
+        }
+      }
+    },
+    {
+      "id": "HE_RL_001",
+      "type": "ResourceLeverage",
+      "member_node_ids": [
+        "Project_0001",
+        "Resource_0001",
+        "Participant_0001",
+        "Location_0001"
+      ],
+      "properties": {
+        "evidence": {
+          "file": "source_v1.doc",
+          "text": "?属性： risk_type (获客成本/合规性/技术失效)。 ?应用： 用于压力测试。如果学生的项目落入某个高频失败超边的覆盖范围，AI 将触发\"预警追问\"。 C. 资源杠杆超边 (Resource_Leverage_Edge) ?连接节点： [Project, Resource, Participant, Location] ?语义： 描述特定背景的人员如何利用本地资源实现项目突破。",
+          "competition": "",
+          "edge_origin": "Resource_Leverage_Edge",
+          "member_labels": [
+            "Project",
+            "Resource",
+            "Participant",
+            "Location"
+          ]
+        }
+      }
+    },
+    {
+      "id": "HE_RL_002",
+      "type": "ResourceLeverage",
+      "member_node_ids": [
+        "Project_0001",
+        "Resource_0002",
+        "Participant_0001",
+        "Location_0001"
+      ],
+      "properties": {
+        "evidence": {
+          "file": "source_v1.doc",
+          "text": "?属性： risk_type (获客成本/合规性/技术失效)。 ?应用： 用于压力测试。如果学生的项目落入某个高频失败超边的覆盖范围，AI 将触发\"预警追问\"。 C. 资源杠杆超边 (Resource_Leverage_Edge) ?连接节点： [Project, Resource, Participant, Location] ?语义： 描述特定背景的人员如何利用本地资源实现项目突破。",
+          "competition": "",
+          "edge_origin": "Resource_Leverage_Edge",
+          "member_labels": [
+            "Project",
+            "Resource",
+            "Participant",
+            "Location"
+          ]
+        }
+      }
+    },
+    {
+      "id": "HE_RL_003",
+      "type": "ResourceLeverage",
+      "member_node_ids": [
+        "Project_0002",
+        "Resource_0001",
+        "Participant_0001",
+        "Location_0002"
+      ],
+      "properties": {
+        "evidence": {
+          "file": "source_v1.doc",
+          "text": "?属性： risk_type (获客成本/合规性/技术失效)。 ?应用： 用于压力测试。如果学生的项目落入某个高频失败超边的覆盖范围，AI 将触发\"预警追问\"。 C. 资源杠杆超边 (Resource_Leverage_Edge) ?连接节点： [Project, Resource, Participant, Location] ?语义： 描述特定背景的人员如何利用本地资源实现项目突破。",
+          "competition": "",
+          "edge_origin": "Resource_Leverage_Edge",
+          "member_labels": [
+            "Project",
+            "Resource",
+            "Participant",
+            "Location"
+          ]
+        }
+      }
+    },
+    {
+      "id": "HE_RL_004",
+      "type": "ResourceLeverage",
+      "member_node_ids": [
+        "Project_0002",
+        "Resource_0002",
+        "Participant_0001",
+        "Location_0002"
+      ],
+      "properties": {
+        "evidence": {
+          "file": "source_v1.doc",
+          "text": "?属性： risk_type (获客成本/合规性/技术失效)。 ?应用： 用于压力测试。如果学生的项目落入某个高频失败超边的覆盖范围，AI 将触发\"预警追问\"。 C. 资源杠杆超边 (Resource_Leverage_Edge) ?连接节点： [Project, Resource, Participant, Location] ?语义： 描述特定背景的人员如何利用本地资源实现项目突破。",
+          "competition": "",
+          "edge_origin": "Resource_Leverage_Edge",
+          "member_labels": [
+            "Project",
+            "Resource",
+            "Participant",
+            "Location"
+          ]
+        }
+      }
+    },
+    {
+      "id": "HE_RP_012",
+      "type": "RiskPattern",
+      "member_node_ids": [
+        "Project_0001",
+        "Market_0001",
+        "Outcome_0001",
+        "Mistake_0022",
+        "Evidence_0006"
+      ],
+      "properties": {
+        "evidence": {
+          "file": "source_v2.doc",
+          "text": "H12 技术路线与资源不匹配",
+          "competition": "",
+          "edge_origin": "Risk_Pattern_Edge",
+          "member_labels": [
+            "Project",
+            "Market",
+            "Outcome",
+            "Business_Element"
+          ],
+          "rule_id": "H12",
+          "severity": "high"
+        }
+      }
+    },
+    {
+      "id": "HE_RP_011",
+      "type": "RiskPattern",
+      "member_node_ids": [
+        "Project_0001",
+        "Market_0001",
+        "Outcome_0001",
+        "Mistake_0021",
+        "Concept_0009"
+      ],
+      "properties": {
+        "evidence": {
+          "file": "source_v2.doc",
+          "text": "H11 合规/伦理缺口",
+          "competition": "",
+          "edge_origin": "Risk_Pattern_Edge",
+          "member_labels": [
+            "Project",
+            "Market",
+            "Outcome",
+            "Business_Element"
+          ],
+          "rule_id": "H11",
+          "severity": "high"
+        }
+      }
+    },
+    {
+      "id": "HE_RP_014",
+      "type": "RiskPattern",
+      "member_node_ids": [
+        "Project_0001",
+        "Market_0001",
+        "Outcome_0001",
+        "Mistake_0024",
+        "Artifact_0002"
+      ],
+      "properties": {
+        "evidence": {
+          "file": "source_v2.doc",
+          "text": "H14 路演叙事断裂",
+          "competition": "",
+          "edge_origin": "Risk_Pattern_Edge",
+          "member_labels": [
+            "Project",
+            "Market",
+            "Outcome",
+            "Business_Element"
+          ],
+          "rule_id": "H14",
+          "severity": "medium"
+        }
+      }
+    },
+    {
+      "id": "HE_RP_002",
+      "type": "RiskPattern",
+      "member_node_ids": [
+        "Project_0001",
+        "Market_0001",
+        "Outcome_0001",
+        "Mistake_0012",
+        "Concept_0008"
+      ],
+      "properties": {
+        "evidence": {
+          "file": "source_v2.doc",
+          "text": "H2 渠道不可达",
+          "competition": "",
+          "edge_origin": "Risk_Pattern_Edge",
+          "member_labels": [
+            "Project",
+            "Market",
+            "Outcome",
+            "Business_Element"
+          ],
+          "rule_id": "H2",
+          "severity": "high"
+        }
+      }
+    },
+    {
+      "id": "HE_VL_001",
+      "type": "ValueLoop",
+      "member_node_ids": [
+        "Market_0001",
+        "Technology_0001",
+        "Project_0001"
+      ],
+      "properties": {
+        "evidence": {
+          "file": "source_v1.doc",
+          "text": "2. 超边定义 (Hyperedges: The Contexts) 超边是逻辑的核心，它将多个节点聚合为一个具有语义的\"创业逻辑块\"。 A. 价值闭环超边 (Value_Loop_Edge) ? 连接节点： [Market, Technology, Project] ? 语义： 描述技术如何转化为解决特定市场痛点的方案。",
+          "competition": "",
+          "edge_origin": "Value_Loop_Edge",
+          "member_labels": [
+            "Market",
+            "Technology",
+            "Project"
+          ]
+        }
+      }
+    },
+    {
+      "id": "HE_VL_002",
+      "type": "ValueLoop",
+      "member_node_ids": [
+        "Market_0002",
+        "Technology_0002",
+        "Project_0002"
+      ],
+      "properties": {
+        "evidence": {
+          "file": "source_v1.doc",
+          "text": "2. 超边定义 (Hyperedges: The Contexts) 超边是逻辑的核心，它将多个节点聚合为一个具有语义的\"创业逻辑块\"。 A. 价值闭环超边 (Value_Loop_Edge) ? 连接节点： [Market, Technology, Project] ? 语义： 描述技术如何转化为解决特定市场痛点的方案。",
+          "competition": "",
+          "edge_origin": "Value_Loop_Edge",
+          "member_labels": [
+            "Market",
+            "Technology",
+            "Project"
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,1075 @@
+{
+  "relations": [
+    {
+      "from": "RubricItem_0001",
+      "to": "Evidence_0001",
+      "type": "EVIDENCED_BY",
+      "properties": {
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"FIX_STRATEGY\", \"EXEMPLIFIED_BY\" ] } { \"rubric_items\": [ { \"id\": \"R1\", \"name\": \"Problem Definition\", \"description\": \"Problem is clear, specific, and grounded in real user pain\", \"required_evidence\": [\"User Interview\", \"Survey\"], \"common_mistakes\": [\"Vague prob",
+            "competition": ""
+          }
+        ]
+      }
+    },
+    {
+      "from": "RubricItem_0001",
+      "to": "Evidence_0002",
+      "type": "EVIDENCED_BY",
+      "properties": {
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"FIX_STRATEGY\", \"EXEMPLIFIED_BY\" ] } { \"rubric_items\": [ { \"id\": \"R1\", \"name\": \"Problem Definition\", \"description\": \"Problem is clear, specific, and grounded in real user pain\", \"required_evidence\": [\"User Interview\", \"Survey\"], \"common_mistakes\": [\"Vague prob",
+            "competition": ""
+          }
+        ]
+      }
+    },
+    {
+      "from": "RubricItem_0001",
+      "to": "Mistake_0001",
+      "type": "COMMON_MISTAKE",
+      "properties": {
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"FIX_STRATEGY\", \"EXEMPLIFIED_BY\" ] } { \"rubric_items\": [ { \"id\": \"R1\", \"name\": \"Problem Definition\", \"description\": \"Problem is clear, specific, and grounded in real user pain\", \"required_evidence\": [\"User Interview\", \"Survey\"], \"common_mistakes\": [\"Vague prob",
+            "competition": ""
+          }
+        ]
+      }
+    },
+    {
+      "from": "RubricItem_0001",
+      "to": "Mistake_0002",
+      "type": "COMMON_MISTAKE",
+      "properties": {
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"FIX_STRATEGY\", \"EXEMPLIFIED_BY\" ] } { \"rubric_items\": [ { \"id\": \"R1\", \"name\": \"Problem Definition\", \"description\": \"Problem is clear, specific, and grounded in real user pain\", \"required_evidence\": [\"User Interview\", \"Survey\"], \"common_mistakes\": [\"Vague prob",
+            "competition": ""
+          }
+        ]
+      }
+    },
+    {
+      "from": "RubricItem_0002",
+      "to": "Evidence_0003",
+      "type": "EVIDENCED_BY",
+      "properties": {
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"FIX_STRATEGY\", \"EXEMPLIFIED_BY\" ] } { \"rubric_items\": [ { \"id\": \"R1\", \"name\": \"Problem Definition\", \"description\": \"Problem is clear, specific, and grounded in real user pain\", \"required_evidence\": [\"User Interview\", \"Survey\"], \"common_mistakes\": [\"Vague prob",
+            "competition": ""
+          }
+        ]
+      }
+    },
+    {
+      "from": "RubricItem_0002",
+      "to": "Evidence_0004",
+      "type": "EVIDENCED_BY",
+      "properties": {
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"FIX_STRATEGY\", \"EXEMPLIFIED_BY\" ] } { \"rubric_items\": [ { \"id\": \"R1\", \"name\": \"Problem Definition\", \"description\": \"Problem is clear, specific, and grounded in real user pain\", \"required_evidence\": [\"User Interview\", \"Survey\"], \"common_mistakes\": [\"Vague prob",
+            "competition": ""
+          }
+        ]
+      }
+    },
+    {
+      "from": "RubricItem_0002",
+      "to": "Mistake_0003",
+      "type": "COMMON_MISTAKE",
+      "properties": {
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"FIX_STRATEGY\", \"EXEMPLIFIED_BY\" ] } { \"rubric_items\": [ { \"id\": \"R1\", \"name\": \"Problem Definition\", \"description\": \"Problem is clear, specific, and grounded in real user pain\", \"required_evidence\": [\"User Interview\", \"Survey\"], \"common_mistakes\": [\"Vague prob",
+            "competition": ""
+          }
+        ]
+      }
+    },
+    {
+      "from": "RubricItem_0003",
+      "to": "Evidence_0005",
+      "type": "EVIDENCED_BY",
+      "properties": {
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"FIX_STRATEGY\", \"EXEMPLIFIED_BY\" ] } { \"rubric_items\": [ { \"id\": \"R1\", \"name\": \"Problem Definition\", \"description\": \"Problem is clear, specific, and grounded in real user pain\", \"required_evidence\": [\"User Interview\", \"Survey\"], \"common_mistakes\": [\"Vague prob",
+            "competition": ""
+          }
+        ]
+      }
+    },
+    {
+      "from": "RubricItem_0003",
+      "to": "Evidence_0006",
+      "type": "EVIDENCED_BY",
+      "properties": {
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"FIX_STRATEGY\", \"EXEMPLIFIED_BY\" ] } { \"rubric_items\": [ { \"id\": \"R1\", \"name\": \"Problem Definition\", \"description\": \"Problem is clear, specific, and grounded in real user pain\", \"required_evidence\": [\"User Interview\", \"Survey\"], \"common_mistakes\": [\"Vague prob",
+            "competition": ""
+          }
+        ]
+      }
+    },
+    {
+      "from": "RubricItem_0003",
+      "to": "Mistake_0004",
+      "type": "COMMON_MISTAKE",
+      "properties": {
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"FIX_STRATEGY\", \"EXEMPLIFIED_BY\" ] } { \"rubric_items\": [ { \"id\": \"R1\", \"name\": \"Problem Definition\", \"description\": \"Problem is clear, specific, and grounded in real user pain\", \"required_evidence\": [\"User Interview\", \"Survey\"], \"common_mistakes\": [\"Vague prob",
+            "competition": ""
+          }
+        ]
+      }
+    },
+    {
+      "from": "RubricItem_0004",
+      "to": "Evidence_0007",
+      "type": "EVIDENCED_BY",
+      "properties": {
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"FIX_STRATEGY\", \"EXEMPLIFIED_BY\" ] } { \"rubric_items\": [ { \"id\": \"R1\", \"name\": \"Problem Definition\", \"description\": \"Problem is clear, specific, and grounded in real user pain\", \"required_evidence\": [\"User Interview\", \"Survey\"], \"common_mistakes\": [\"Vague prob",
+            "competition": ""
+          }
+        ]
+      }
+    },
+    {
+      "from": "RubricItem_0004",
+      "to": "Mistake_0005",
+      "type": "COMMON_MISTAKE",
+      "properties": {
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"FIX_STRATEGY\", \"EXEMPLIFIED_BY\" ] } { \"rubric_items\": [ { \"id\": \"R1\", \"name\": \"Problem Definition\", \"description\": \"Problem is clear, specific, and grounded in real user pain\", \"required_evidence\": [\"User Interview\", \"Survey\"], \"common_mistakes\": [\"Vague prob",
+            "competition": ""
+          }
+        ]
+      }
+    },
+    {
+      "from": "RubricItem_0005",
+      "to": "Evidence_0008",
+      "type": "EVIDENCED_BY",
+      "properties": {
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"FIX_STRATEGY\", \"EXEMPLIFIED_BY\" ] } { \"rubric_items\": [ { \"id\": \"R1\", \"name\": \"Problem Definition\", \"description\": \"Problem is clear, specific, and grounded in real user pain\", \"required_evidence\": [\"User Interview\", \"Survey\"], \"common_mistakes\": [\"Vague prob",
+            "competition": ""
+          }
+        ]
+      }
+    },
+    {
+      "from": "RubricItem_0005",
+      "to": "Evidence_0009",
+      "type": "EVIDENCED_BY",
+      "properties": {
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"FIX_STRATEGY\", \"EXEMPLIFIED_BY\" ] } { \"rubric_items\": [ { \"id\": \"R1\", \"name\": \"Problem Definition\", \"description\": \"Problem is clear, specific, and grounded in real user pain\", \"required_evidence\": [\"User Interview\", \"Survey\"], \"common_mistakes\": [\"Vague prob",
+            "competition": ""
+          }
+        ]
+      }
+    },
+    {
+      "from": "RubricItem_0005",
+      "to": "Mistake_0006",
+      "type": "COMMON_MISTAKE",
+      "properties": {
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"FIX_STRATEGY\", \"EXEMPLIFIED_BY\" ] } { \"rubric_items\": [ { \"id\": \"R1\", \"name\": \"Problem Definition\", \"description\": \"Problem is clear, specific, and grounded in real user pain\", \"required_evidence\": [\"User Interview\", \"Survey\"], \"common_mistakes\": [\"Vague prob",
+            "competition": ""
+          }
+        ]
+      }
+    },
+    {
+      "from": "RubricItem_0006",
+      "to": "Evidence_0010",
+      "type": "EVIDENCED_BY",
+      "properties": {
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"FIX_STRATEGY\", \"EXEMPLIFIED_BY\" ] } { \"rubric_items\": [ { \"id\": \"R1\", \"name\": \"Problem Definition\", \"description\": \"Problem is clear, specific, and grounded in real user pain\", \"required_evidence\": [\"User Interview\", \"Survey\"], \"common_mistakes\": [\"Vague prob",
+            "competition": ""
+          }
+        ]
+      }
+    },
+    {
+      "from": "RubricItem_0006",
+      "to": "Evidence_0011",
+      "type": "EVIDENCED_BY",
+      "properties": {
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"FIX_STRATEGY\", \"EXEMPLIFIED_BY\" ] } { \"rubric_items\": [ { \"id\": \"R1\", \"name\": \"Problem Definition\", \"description\": \"Problem is clear, specific, and grounded in real user pain\", \"required_evidence\": [\"User Interview\", \"Survey\"], \"common_mistakes\": [\"Vague prob",
+            "competition": ""
+          }
+        ]
+      }
+    },
+    {
+      "from": "RubricItem_0006",
+      "to": "Mistake_0007",
+      "type": "COMMON_MISTAKE",
+      "properties": {
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"FIX_STRATEGY\", \"EXEMPLIFIED_BY\" ] } { \"rubric_items\": [ { \"id\": \"R1\", \"name\": \"Problem Definition\", \"description\": \"Problem is clear, specific, and grounded in real user pain\", \"required_evidence\": [\"User Interview\", \"Survey\"], \"common_mistakes\": [\"Vague prob",
+            "competition": ""
+          }
+        ]
+      }
+    },
+    {
+      "from": "RubricItem_0007",
+      "to": "Evidence_0012",
+      "type": "EVIDENCED_BY",
+      "properties": {
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"FIX_STRATEGY\", \"EXEMPLIFIED_BY\" ] } { \"rubric_items\": [ { \"id\": \"R1\", \"name\": \"Problem Definition\", \"description\": \"Problem is clear, specific, and grounded in real user pain\", \"required_evidence\": [\"User Interview\", \"Survey\"], \"common_mistakes\": [\"Vague prob",
+            "competition": ""
+          }
+        ]
+      }
+    },
+    {
+      "from": "RubricItem_0007",
+      "to": "Mistake_0008",
+      "type": "COMMON_MISTAKE",
+      "properties": {
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"FIX_STRATEGY\", \"EXEMPLIFIED_BY\" ] } { \"rubric_items\": [ { \"id\": \"R1\", \"name\": \"Problem Definition\", \"description\": \"Problem is clear, specific, and grounded in real user pain\", \"required_evidence\": [\"User Interview\", \"Survey\"], \"common_mistakes\": [\"Vague prob",
+            "competition": ""
+          }
+        ]
+      }
+    },
+    {
+      "from": "RubricItem_0008",
+      "to": "Evidence_0013",
+      "type": "EVIDENCED_BY",
+      "properties": {
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"FIX_STRATEGY\", \"EXEMPLIFIED_BY\" ] } { \"rubric_items\": [ { \"id\": \"R1\", \"name\": \"Problem Definition\", \"description\": \"Problem is clear, specific, and grounded in real user pain\", \"required_evidence\": [\"User Interview\", \"Survey\"], \"common_mistakes\": [\"Vague prob",
+            "competition": ""
+          }
+        ]
+      }
+    },
+    {
+      "from": "RubricItem_0008",
+      "to": "Evidence_0014",
+      "type": "EVIDENCED_BY",
+      "properties": {
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"FIX_STRATEGY\", \"EXEMPLIFIED_BY\" ] } { \"rubric_items\": [ { \"id\": \"R1\", \"name\": \"Problem Definition\", \"description\": \"Problem is clear, specific, and grounded in real user pain\", \"required_evidence\": [\"User Interview\", \"Survey\"], \"common_mistakes\": [\"Vague prob",
+            "competition": ""
+          }
+        ]
+      }
+    },
+    {
+      "from": "RubricItem_0008",
+      "to": "Mistake_0009",
+      "type": "COMMON_MISTAKE",
+      "properties": {
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"FIX_STRATEGY\", \"EXEMPLIFIED_BY\" ] } { \"rubric_items\": [ { \"id\": \"R1\", \"name\": \"Problem Definition\", \"description\": \"Problem is clear, specific, and grounded in real user pain\", \"required_evidence\": [\"User Interview\", \"Survey\"], \"common_mistakes\": [\"Vague prob",
+            "competition": ""
+          }
+        ]
+      }
+    },
+    {
+      "from": "RubricItem_0009",
+      "to": "Evidence_0015",
+      "type": "EVIDENCED_BY",
+      "properties": {
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"FIX_STRATEGY\", \"EXEMPLIFIED_BY\" ] } { \"rubric_items\": [ { \"id\": \"R1\", \"name\": \"Problem Definition\", \"description\": \"Problem is clear, specific, and grounded in real user pain\", \"required_evidence\": [\"User Interview\", \"Survey\"], \"common_mistakes\": [\"Vague prob",
+            "competition": ""
+          }
+        ]
+      }
+    },
+    {
+      "from": "RubricItem_0009",
+      "to": "Mistake_0010",
+      "type": "COMMON_MISTAKE",
+      "properties": {
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"FIX_STRATEGY\", \"EXEMPLIFIED_BY\" ] } { \"rubric_items\": [ { \"id\": \"R1\", \"name\": \"Problem Definition\", \"description\": \"Problem is clear, specific, and grounded in real user pain\", \"required_evidence\": [\"User Interview\", \"Survey\"], \"common_mistakes\": [\"Vague prob",
+            "competition": ""
+          }
+        ]
+      }
+    },
+    {
+      "from": "Project_0001",
+      "to": "Technology_0001",
+      "type": "USES",
+      "properties": {
+        "source": [
+          {
+            "file": "source_v1.doc",
+            "text": "如何测试这个提示词？ 当您将这段 Prompt 输入系统后，可以尝试用一个典型的\"学生式\"开场白来测试它： 测试输入： \"老师好，我计划开发一个基于 AI 的二手课本交易平台，专门针对北京的留学生，目前市场上没有人在做这个，我觉得潜力巨大。\" 理想的 AI 反应： 1. 不会说： \"这个想法很好，你应该做 App。\"",
+            "competition": ""
+          }
+        ]
+      }
+    },
+    {
+      "from": "Project_0001",
+      "to": "Market_0001",
+      "type": "EVALUATED_BY",
+      "properties": {
+        "source": [
+          {
+            "file": "source_v1.doc",
+            "text": "如何测试这个提示词？ 当您将这段 Prompt 输入系统后，可以尝试用一个典型的\"学生式\"开场白来测试它： 测试输入： \"老师好，我计划开发一个基于 AI 的二手课本交易平台，专门针对北京的留学生，目前市场上没有人在做这个，我觉得潜力巨大。\" 理想的 AI 反应： 1. 不会说： \"这个想法很好，你应该做 App。\"",
+            "competition": ""
+          }
+        ],
+        "semantic": "targets_market"
+      }
+    },
+    {
+      "from": "Project_0001",
+      "to": "Outcome_0001",
+      "type": "MEASURED_BY",
+      "properties": {
+        "source": [
+          {
+            "file": "source_v1.doc",
+            "text": "如何测试这个提示词？ 当您将这段 Prompt 输入系统后，可以尝试用一个典型的\"学生式\"开场白来测试它： 测试输入： \"老师好，我计划开发一个基于 AI 的二手课本交易平台，专门针对北京的留学生，目前市场上没有人在做这个，我觉得潜力巨大。\" 理想的 AI 反应： 1. 不会说： \"这个想法很好，你应该做 App。\"",
+            "competition": ""
+          }
+        ],
+        "semantic": "project_outcome"
+      }
+    },
+    {
+      "from": "Project_0001",
+      "to": "Location_0001",
+      "type": "EVIDENCED_BY",
+      "properties": {
+        "source": [
+          {
+            "file": "source_v1.doc",
+            "text": "如何测试这个提示词？ 当您将这段 Prompt 输入系统后，可以尝试用一个典型的\"学生式\"开场白来测试它： 测试输入： \"老师好，我计划开发一个基于 AI 的二手课本交易平台，专门针对北京的留学生，目前市场上没有人在做这个，我觉得潜力巨大。\" 理想的 AI 反应： 1. 不会说： \"这个想法很好，你应该做 App。\"",
+            "competition": ""
+          }
+        ],
+        "semantic": "project_location"
+      }
+    },
+    {
+      "from": "Project_0001",
+      "to": "RubricItem_0001",
+      "type": "EVALUATED_BY",
+      "properties": {
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"FIX_STRATEGY\", \"EXEMPLIFIED_BY\" ] } { \"rubric_items\": [ { \"id\": \"R1\", \"name\": \"Problem Definition\", \"description\": \"Problem is clear, specific, and grounded in real user pain\", \"required_evidence\": [\"User Interview\", \"Survey\"], \"common_mistakes\": [\"Vague prob",
+            "competition": ""
+          }
+        ]
+      }
+    },
+    {
+      "from": "Project_0001",
+      "to": "RubricItem_0002",
+      "type": "EVALUATED_BY",
+      "properties": {
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"FIX_STRATEGY\", \"EXEMPLIFIED_BY\" ] } { \"rubric_items\": [ { \"id\": \"R1\", \"name\": \"Problem Definition\", \"description\": \"Problem is clear, specific, and grounded in real user pain\", \"required_evidence\": [\"User Interview\", \"Survey\"], \"common_mistakes\": [\"Vague prob",
+            "competition": ""
+          }
+        ]
+      }
+    },
+    {
+      "from": "Project_0001",
+      "to": "RubricItem_0003",
+      "type": "EVALUATED_BY",
+      "properties": {
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"FIX_STRATEGY\", \"EXEMPLIFIED_BY\" ] } { \"rubric_items\": [ { \"id\": \"R1\", \"name\": \"Problem Definition\", \"description\": \"Problem is clear, specific, and grounded in real user pain\", \"required_evidence\": [\"User Interview\", \"Survey\"], \"common_mistakes\": [\"Vague prob",
+            "competition": ""
+          }
+        ]
+      }
+    },
+    {
+      "from": "Project_0001",
+      "to": "RubricItem_0004",
+      "type": "EVALUATED_BY",
+      "properties": {
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"FIX_STRATEGY\", \"EXEMPLIFIED_BY\" ] } { \"rubric_items\": [ { \"id\": \"R1\", \"name\": \"Problem Definition\", \"description\": \"Problem is clear, specific, and grounded in real user pain\", \"required_evidence\": [\"User Interview\", \"Survey\"], \"common_mistakes\": [\"Vague prob",
+            "competition": ""
+          }
+        ]
+      }
+    },
+    {
+      "from": "Project_0001",
+      "to": "RubricItem_0005",
+      "type": "EVALUATED_BY",
+      "properties": {
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"FIX_STRATEGY\", \"EXEMPLIFIED_BY\" ] } { \"rubric_items\": [ { \"id\": \"R1\", \"name\": \"Problem Definition\", \"description\": \"Problem is clear, specific, and grounded in real user pain\", \"required_evidence\": [\"User Interview\", \"Survey\"], \"common_mistakes\": [\"Vague prob",
+            "competition": ""
+          }
+        ]
+      }
+    },
+    {
+      "from": "Project_0001",
+      "to": "RubricItem_0006",
+      "type": "EVALUATED_BY",
+      "properties": {
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"FIX_STRATEGY\", \"EXEMPLIFIED_BY\" ] } { \"rubric_items\": [ { \"id\": \"R1\", \"name\": \"Problem Definition\", \"description\": \"Problem is clear, specific, and grounded in real user pain\", \"required_evidence\": [\"User Interview\", \"Survey\"], \"common_mistakes\": [\"Vague prob",
+            "competition": ""
+          }
+        ]
+      }
+    },
+    {
+      "from": "Project_0001",
+      "to": "RubricItem_0007",
+      "type": "EVALUATED_BY",
+      "properties": {
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"FIX_STRATEGY\", \"EXEMPLIFIED_BY\" ] } { \"rubric_items\": [ { \"id\": \"R1\", \"name\": \"Problem Definition\", \"description\": \"Problem is clear, specific, and grounded in real user pain\", \"required_evidence\": [\"User Interview\", \"Survey\"], \"common_mistakes\": [\"Vague prob",
+            "competition": ""
+          }
+        ]
+      }
+    },
+    {
+      "from": "Project_0001",
+      "to": "RubricItem_0008",
+      "type": "EVALUATED_BY",
+      "properties": {
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"FIX_STRATEGY\", \"EXEMPLIFIED_BY\" ] } { \"rubric_items\": [ { \"id\": \"R1\", \"name\": \"Problem Definition\", \"description\": \"Problem is clear, specific, and grounded in real user pain\", \"required_evidence\": [\"User Interview\", \"Survey\"], \"common_mistakes\": [\"Vague prob",
+            "competition": ""
+          }
+        ]
+      }
+    },
+    {
+      "from": "Project_0001",
+      "to": "RubricItem_0009",
+      "type": "EVALUATED_BY",
+      "properties": {
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"FIX_STRATEGY\", \"EXEMPLIFIED_BY\" ] } { \"rubric_items\": [ { \"id\": \"R1\", \"name\": \"Problem Definition\", \"description\": \"Problem is clear, specific, and grounded in real user pain\", \"required_evidence\": [\"User Interview\", \"Survey\"], \"common_mistakes\": [\"Vague prob",
+            "competition": ""
+          }
+        ]
+      }
+    },
+    {
+      "from": "Project_0002",
+      "to": "Technology_0002",
+      "type": "USES",
+      "properties": {
+        "source": [
+          {
+            "file": "source_v1.doc",
+            "text": "如何测试这个提示词？ 当您将这段 Prompt 输入系统后，可以尝试用一个典型的\"学生式\"开场白来测试它： 测试输入： \"老师好，我计划开发一个基于 AI 的二手课本交易平台，专门针对北京的留学生，目前市场上没有人在做这个，我觉得潜力巨大。\" 理想的 AI 反应： 1. 不会说： \"这个想法很好，你应该做 App。\"",
+            "competition": ""
+          }
+        ]
+      }
+    },
+    {
+      "from": "Project_0002",
+      "to": "Market_0002",
+      "type": "EVALUATED_BY",
+      "properties": {
+        "source": [
+          {
+            "file": "source_v1.doc",
+            "text": "如何测试这个提示词？ 当您将这段 Prompt 输入系统后，可以尝试用一个典型的\"学生式\"开场白来测试它： 测试输入： \"老师好，我计划开发一个基于 AI 的二手课本交易平台，专门针对北京的留学生，目前市场上没有人在做这个，我觉得潜力巨大。\" 理想的 AI 反应： 1. 不会说： \"这个想法很好，你应该做 App。\"",
+            "competition": ""
+          }
+        ],
+        "semantic": "targets_market"
+      }
+    },
+    {
+      "from": "Project_0002",
+      "to": "Outcome_0002",
+      "type": "MEASURED_BY",
+      "properties": {
+        "source": [
+          {
+            "file": "source_v1.doc",
+            "text": "如何测试这个提示词？ 当您将这段 Prompt 输入系统后，可以尝试用一个典型的\"学生式\"开场白来测试它： 测试输入： \"老师好，我计划开发一个基于 AI 的二手课本交易平台，专门针对北京的留学生，目前市场上没有人在做这个，我觉得潜力巨大。\" 理想的 AI 反应： 1. 不会说： \"这个想法很好，你应该做 App。\"",
+            "competition": ""
+          }
+        ],
+        "semantic": "project_outcome"
+      }
+    },
+    {
+      "from": "Project_0002",
+      "to": "Location_0002",
+      "type": "EVIDENCED_BY",
+      "properties": {
+        "source": [
+          {
+            "file": "source_v1.doc",
+            "text": "如何测试这个提示词？ 当您将这段 Prompt 输入系统后，可以尝试用一个典型的\"学生式\"开场白来测试它： 测试输入： \"老师好，我计划开发一个基于 AI 的二手课本交易平台，专门针对北京的留学生，目前市场上没有人在做这个，我觉得潜力巨大。\" 理想的 AI 反应： 1. 不会说： \"这个想法很好，你应该做 App。\"",
+            "competition": ""
+          }
+        ],
+        "semantic": "project_location"
+      }
+    },
+    {
+      "from": "Project_0002",
+      "to": "RubricItem_0001",
+      "type": "EVALUATED_BY",
+      "properties": {
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"FIX_STRATEGY\", \"EXEMPLIFIED_BY\" ] } { \"rubric_items\": [ { \"id\": \"R1\", \"name\": \"Problem Definition\", \"description\": \"Problem is clear, specific, and grounded in real user pain\", \"required_evidence\": [\"User Interview\", \"Survey\"], \"common_mistakes\": [\"Vague prob",
+            "competition": ""
+          }
+        ]
+      }
+    },
+    {
+      "from": "Project_0002",
+      "to": "RubricItem_0002",
+      "type": "EVALUATED_BY",
+      "properties": {
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"FIX_STRATEGY\", \"EXEMPLIFIED_BY\" ] } { \"rubric_items\": [ { \"id\": \"R1\", \"name\": \"Problem Definition\", \"description\": \"Problem is clear, specific, and grounded in real user pain\", \"required_evidence\": [\"User Interview\", \"Survey\"], \"common_mistakes\": [\"Vague prob",
+            "competition": ""
+          }
+        ]
+      }
+    },
+    {
+      "from": "Project_0002",
+      "to": "RubricItem_0003",
+      "type": "EVALUATED_BY",
+      "properties": {
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"FIX_STRATEGY\", \"EXEMPLIFIED_BY\" ] } { \"rubric_items\": [ { \"id\": \"R1\", \"name\": \"Problem Definition\", \"description\": \"Problem is clear, specific, and grounded in real user pain\", \"required_evidence\": [\"User Interview\", \"Survey\"], \"common_mistakes\": [\"Vague prob",
+            "competition": ""
+          }
+        ]
+      }
+    },
+    {
+      "from": "Project_0002",
+      "to": "RubricItem_0004",
+      "type": "EVALUATED_BY",
+      "properties": {
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"FIX_STRATEGY\", \"EXEMPLIFIED_BY\" ] } { \"rubric_items\": [ { \"id\": \"R1\", \"name\": \"Problem Definition\", \"description\": \"Problem is clear, specific, and grounded in real user pain\", \"required_evidence\": [\"User Interview\", \"Survey\"], \"common_mistakes\": [\"Vague prob",
+            "competition": ""
+          }
+        ]
+      }
+    },
+    {
+      "from": "Project_0002",
+      "to": "RubricItem_0005",
+      "type": "EVALUATED_BY",
+      "properties": {
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"FIX_STRATEGY\", \"EXEMPLIFIED_BY\" ] } { \"rubric_items\": [ { \"id\": \"R1\", \"name\": \"Problem Definition\", \"description\": \"Problem is clear, specific, and grounded in real user pain\", \"required_evidence\": [\"User Interview\", \"Survey\"], \"common_mistakes\": [\"Vague prob",
+            "competition": ""
+          }
+        ]
+      }
+    },
+    {
+      "from": "Project_0002",
+      "to": "RubricItem_0006",
+      "type": "EVALUATED_BY",
+      "properties": {
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"FIX_STRATEGY\", \"EXEMPLIFIED_BY\" ] } { \"rubric_items\": [ { \"id\": \"R1\", \"name\": \"Problem Definition\", \"description\": \"Problem is clear, specific, and grounded in real user pain\", \"required_evidence\": [\"User Interview\", \"Survey\"], \"common_mistakes\": [\"Vague prob",
+            "competition": ""
+          }
+        ]
+      }
+    },
+    {
+      "from": "Project_0002",
+      "to": "RubricItem_0007",
+      "type": "EVALUATED_BY",
+      "properties": {
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"FIX_STRATEGY\", \"EXEMPLIFIED_BY\" ] } { \"rubric_items\": [ { \"id\": \"R1\", \"name\": \"Problem Definition\", \"description\": \"Problem is clear, specific, and grounded in real user pain\", \"required_evidence\": [\"User Interview\", \"Survey\"], \"common_mistakes\": [\"Vague prob",
+            "competition": ""
+          }
+        ]
+      }
+    },
+    {
+      "from": "Project_0002",
+      "to": "RubricItem_0008",
+      "type": "EVALUATED_BY",
+      "properties": {
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"FIX_STRATEGY\", \"EXEMPLIFIED_BY\" ] } { \"rubric_items\": [ { \"id\": \"R1\", \"name\": \"Problem Definition\", \"description\": \"Problem is clear, specific, and grounded in real user pain\", \"required_evidence\": [\"User Interview\", \"Survey\"], \"common_mistakes\": [\"Vague prob",
+            "competition": ""
+          }
+        ]
+      }
+    },
+    {
+      "from": "Project_0002",
+      "to": "RubricItem_0009",
+      "type": "EVALUATED_BY",
+      "properties": {
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"FIX_STRATEGY\", \"EXEMPLIFIED_BY\" ] } { \"rubric_items\": [ { \"id\": \"R1\", \"name\": \"Problem Definition\", \"description\": \"Problem is clear, specific, and grounded in real user pain\", \"required_evidence\": [\"User Interview\", \"Survey\"], \"common_mistakes\": [\"Vague prob",
+            "competition": ""
+          }
+        ]
+      }
+    },
+    {
+      "from": "Method_0002",
+      "to": "Task_0001",
+      "type": "USES",
+      "properties": {
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "{ \"node_types\": { \"Concept\": [\"PMF\", \"TAM\", \"SAM\", \"SOM\", \"Value Proposition\", \"Moat\", \"Pricing\"], \"Method\": [\"Lean Canvas\", \"JTBD\", \"AARRR\", \"SWOT\", \"BCG\"], \"Task\": [\"User Interview\", \"Survey\", \"Competitor Analysis\", \"MVP Design\", \"Experiment\"], \"Artifact\": [",
+            "competition": ""
+          }
+        ]
+      }
+    },
+    {
+      "from": "Method_0002",
+      "to": "Task_0002",
+      "type": "USES",
+      "properties": {
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "{ \"node_types\": { \"Concept\": [\"PMF\", \"TAM\", \"SAM\", \"SOM\", \"Value Proposition\", \"Moat\", \"Pricing\"], \"Method\": [\"Lean Canvas\", \"JTBD\", \"AARRR\", \"SWOT\", \"BCG\"], \"Task\": [\"User Interview\", \"Survey\", \"Competitor Analysis\", \"MVP Design\", \"Experiment\"], \"Artifact\": [",
+            "competition": ""
+          }
+        ]
+      }
+    },
+    {
+      "from": "Method_0003",
+      "to": "Task_0005",
+      "type": "USES",
+      "properties": {
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "{ \"node_types\": { \"Concept\": [\"PMF\", \"TAM\", \"SAM\", \"SOM\", \"Value Proposition\", \"Moat\", \"Pricing\"], \"Method\": [\"Lean Canvas\", \"JTBD\", \"AARRR\", \"SWOT\", \"BCG\"], \"Task\": [\"User Interview\", \"Survey\", \"Competitor Analysis\", \"MVP Design\", \"Experiment\"], \"Artifact\": [",
+            "competition": ""
+          }
+        ]
+      }
+    },
+    {
+      "from": "Task_0003",
+      "to": "Artifact_0006",
+      "type": "PRODUCES",
+      "properties": {
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "{ \"node_types\": { \"Concept\": [\"PMF\", \"TAM\", \"SAM\", \"SOM\", \"Value Proposition\", \"Moat\", \"Pricing\"], \"Method\": [\"Lean Canvas\", \"JTBD\", \"AARRR\", \"SWOT\", \"BCG\"], \"Task\": [\"User Interview\", \"Survey\", \"Competitor Analysis\", \"MVP Design\", \"Experiment\"], \"Artifact\": [",
+            "competition": ""
+          }
+        ]
+      }
+    },
+    {
+      "from": "Task_0004",
+      "to": "Artifact_0005",
+      "type": "PRODUCES",
+      "properties": {
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "{ \"node_types\": { \"Concept\": [\"PMF\", \"TAM\", \"SAM\", \"SOM\", \"Value Proposition\", \"Moat\", \"Pricing\"], \"Method\": [\"Lean Canvas\", \"JTBD\", \"AARRR\", \"SWOT\", \"BCG\"], \"Task\": [\"User Interview\", \"Survey\", \"Competitor Analysis\", \"MVP Design\", \"Experiment\"], \"Artifact\": [",
+            "competition": ""
+          }
+        ]
+      }
+    },
+    {
+      "from": "Task_0005",
+      "to": "Artifact_0003",
+      "type": "PRODUCES",
+      "properties": {
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "{ \"node_types\": { \"Concept\": [\"PMF\", \"TAM\", \"SAM\", \"SOM\", \"Value Proposition\", \"Moat\", \"Pricing\"], \"Method\": [\"Lean Canvas\", \"JTBD\", \"AARRR\", \"SWOT\", \"BCG\"], \"Task\": [\"User Interview\", \"Survey\", \"Competitor Analysis\", \"MVP Design\", \"Experiment\"], \"Artifact\": [",
+            "competition": ""
+          }
+        ]
+      }
+    },
+    {
+      "from": "Artifact_0004",
+      "to": "Metric_0001",
+      "type": "MEASURED_BY",
+      "properties": {
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "{ \"node_types\": { \"Concept\": [\"PMF\", \"TAM\", \"SAM\", \"SOM\", \"Value Proposition\", \"Moat\", \"Pricing\"], \"Method\": [\"Lean Canvas\", \"JTBD\", \"AARRR\", \"SWOT\", \"BCG\"], \"Task\": [\"User Interview\", \"Survey\", \"Competitor Analysis\", \"MVP Design\", \"Experiment\"], \"Artifact\": [",
+            "competition": ""
+          }
+        ]
+      }
+    },
+    {
+      "from": "Artifact_0004",
+      "to": "Metric_0002",
+      "type": "MEASURED_BY",
+      "properties": {
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "{ \"node_types\": { \"Concept\": [\"PMF\", \"TAM\", \"SAM\", \"SOM\", \"Value Proposition\", \"Moat\", \"Pricing\"], \"Method\": [\"Lean Canvas\", \"JTBD\", \"AARRR\", \"SWOT\", \"BCG\"], \"Task\": [\"User Interview\", \"Survey\", \"Competitor Analysis\", \"MVP Design\", \"Experiment\"], \"Artifact\": [",
+            "competition": ""
+          }
+        ]
+      }
+    },
+    {
+      "from": "Artifact_0002",
+      "to": "Metric_0003",
+      "type": "MEASURED_BY",
+      "properties": {
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "{ \"node_types\": { \"Concept\": [\"PMF\", \"TAM\", \"SAM\", \"SOM\", \"Value Proposition\", \"Moat\", \"Pricing\"], \"Method\": [\"Lean Canvas\", \"JTBD\", \"AARRR\", \"SWOT\", \"BCG\"], \"Task\": [\"User Interview\", \"Survey\", \"Competitor Analysis\", \"MVP Design\", \"Experiment\"], \"Artifact\": [",
+            "competition": ""
+          }
+        ]
+      }
+    },
+    {
+      "from": "Mistake_0011",
+      "to": "Business_Element_0001",
+      "type": "FIX_STRATEGY",
+      "properties": {
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"trigger_message\": \"Customer, value proposition, and channel are inconsistent.\", \"impact\": \"Business model is not executable in practice.\", \"fix_task\": \"Redefine target customer OR adjust channel strategy with evidence.\" } 15 条规则 ID（直接建清单） | ID | 规则 | | --- |",
+            "competition": ""
+          }
+        ],
+        "rule_id": "H1"
+      }
+    },
+    {
+      "from": "Mistake_0012",
+      "to": "Concept_0008",
+      "type": "FIX_STRATEGY",
+      "properties": {
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"trigger_message\": \"Customer, value proposition, and channel are inconsistent.\", \"impact\": \"Business model is not executable in practice.\", \"fix_task\": \"Redefine target customer OR adjust channel strategy with evidence.\" } 15 条规则 ID（直接建清单） | ID | 规则 | | --- |",
+            "competition": ""
+          }
+        ],
+        "rule_id": "H2"
+      }
+    },
+    {
+      "from": "Mistake_0013",
+      "to": "Concept_0007",
+      "type": "FIX_STRATEGY",
+      "properties": {
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"trigger_message\": \"Customer, value proposition, and channel are inconsistent.\", \"impact\": \"Business model is not executable in practice.\", \"fix_task\": \"Redefine target customer OR adjust channel strategy with evidence.\" } 15 条规则 ID（直接建清单） | ID | 规则 | | --- |",
+            "competition": ""
+          }
+        ],
+        "rule_id": "H3"
+      }
+    },
+    {
+      "from": "Mistake_0014",
+      "to": "Concept_0002",
+      "type": "FIX_STRATEGY",
+      "properties": {
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"trigger_message\": \"Customer, value proposition, and channel are inconsistent.\", \"impact\": \"Business model is not executable in practice.\", \"fix_task\": \"Redefine target customer OR adjust channel strategy with evidence.\" } 15 条规则 ID（直接建清单） | ID | 规则 | | --- |",
+            "competition": ""
+          }
+        ],
+        "rule_id": "H4"
+      }
+    },
+    {
+      "from": "Mistake_0015",
+      "to": "Evidence_0001",
+      "type": "FIX_STRATEGY",
+      "properties": {
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"trigger_message\": \"Customer, value proposition, and channel are inconsistent.\", \"impact\": \"Business model is not executable in practice.\", \"fix_task\": \"Redefine target customer OR adjust channel strategy with evidence.\" } 15 条规则 ID（直接建清单） | ID | 规则 | | --- |",
+            "competition": ""
+          }
+        ],
+        "rule_id": "H5"
+      }
+    },
+    {
+      "from": "Mistake_0016",
+      "to": "Artifact_0006",
+      "type": "FIX_STRATEGY",
+      "properties": {
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"trigger_message\": \"Customer, value proposition, and channel are inconsistent.\", \"impact\": \"Business model is not executable in practice.\", \"fix_task\": \"Redefine target customer OR adjust channel strategy with evidence.\" } 15 条规则 ID（直接建清单） | ID | 规则 | | --- |",
+            "competition": ""
+          }
+        ],
+        "rule_id": "H6"
+      }
+    },
+    {
+      "from": "Mistake_0017",
+      "to": "Concept_0006",
+      "type": "FIX_STRATEGY",
+      "properties": {
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"trigger_message\": \"Customer, value proposition, and channel are inconsistent.\", \"impact\": \"Business model is not executable in practice.\", \"fix_task\": \"Redefine target customer OR adjust channel strategy with evidence.\" } 15 条规则 ID（直接建清单） | ID | 规则 | | --- |",
+            "competition": ""
+          }
+        ],
+        "rule_id": "H7"
+      }
+    },
+    {
+      "from": "Mistake_0018",
+      "to": "Metric_0001",
+      "type": "FIX_STRATEGY",
+      "properties": {
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"trigger_message\": \"Customer, value proposition, and channel are inconsistent.\", \"impact\": \"Business model is not executable in practice.\", \"fix_task\": \"Redefine target customer OR adjust channel strategy with evidence.\" } 15 条规则 ID（直接建清单） | ID | 规则 | | --- |",
+            "competition": ""
+          }
+        ],
+        "rule_id": "H8"
+      }
+    },
+    {
+      "from": "Mistake_0019",
+      "to": "Method_0003",
+      "type": "FIX_STRATEGY",
+      "properties": {
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"trigger_message\": \"Customer, value proposition, and channel are inconsistent.\", \"impact\": \"Business model is not executable in practice.\", \"fix_task\": \"Redefine target customer OR adjust channel strategy with evidence.\" } 15 条规则 ID（直接建清单） | ID | 规则 | | --- |",
+            "competition": ""
+          }
+        ],
+        "rule_id": "H9"
+      }
+    },
+    {
+      "from": "Mistake_0020",
+      "to": "Task_0004",
+      "type": "FIX_STRATEGY",
+      "properties": {
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"trigger_message\": \"Customer, value proposition, and channel are inconsistent.\", \"impact\": \"Business model is not executable in practice.\", \"fix_task\": \"Redefine target customer OR adjust channel strategy with evidence.\" } 15 条规则 ID（直接建清单） | ID | 规则 | | --- |",
+            "competition": ""
+          }
+        ],
+        "rule_id": "H10"
+      }
+    },
+    {
+      "from": "Mistake_0021",
+      "to": "Concept_0009",
+      "type": "FIX_STRATEGY",
+      "properties": {
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"trigger_message\": \"Customer, value proposition, and channel are inconsistent.\", \"impact\": \"Business model is not executable in practice.\", \"fix_task\": \"Redefine target customer OR adjust channel strategy with evidence.\" } 15 条规则 ID（直接建清单） | ID | 规则 | | --- |",
+            "competition": ""
+          }
+        ],
+        "rule_id": "H11"
+      }
+    },
+    {
+      "from": "Mistake_0022",
+      "to": "Evidence_0006",
+      "type": "FIX_STRATEGY",
+      "properties": {
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"trigger_message\": \"Customer, value proposition, and channel are inconsistent.\", \"impact\": \"Business model is not executable in practice.\", \"fix_task\": \"Redefine target customer OR adjust channel strategy with evidence.\" } 15 条规则 ID（直接建清单） | ID | 规则 | | --- |",
+            "competition": ""
+          }
+        ],
+        "rule_id": "H12"
+      }
+    },
+    {
+      "from": "Mistake_0023",
+      "to": "Task_0005",
+      "type": "FIX_STRATEGY",
+      "properties": {
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"trigger_message\": \"Customer, value proposition, and channel are inconsistent.\", \"impact\": \"Business model is not executable in practice.\", \"fix_task\": \"Redefine target customer OR adjust channel strategy with evidence.\" } 15 条规则 ID（直接建清单） | ID | 规则 | | --- |",
+            "competition": ""
+          }
+        ],
+        "rule_id": "H13"
+      }
+    },
+    {
+      "from": "Mistake_0024",
+      "to": "Artifact_0002",
+      "type": "FIX_STRATEGY",
+      "properties": {
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"trigger_message\": \"Customer, value proposition, and channel are inconsistent.\", \"impact\": \"Business model is not executable in practice.\", \"fix_task\": \"Redefine target customer OR adjust channel strategy with evidence.\" } 15 条规则 ID（直接建清单） | ID | 规则 | | --- |",
+            "competition": ""
+          }
+        ],
+        "rule_id": "H14"
+      }
+    },
+    {
+      "from": "Mistake_0025",
+      "to": "RubricItem_0001",
+      "type": "FIX_STRATEGY",
+      "properties": {
+        "source": [
+          {
+            "file": "source_v2.doc",
+            "text": "\"trigger_message\": \"Customer, value proposition, and channel are inconsistent.\", \"impact\": \"Business model is not executable in practice.\", \"fix_task\": \"Redefine target customer OR adjust channel strategy with evidence.\" } 15 条规则 ID（直接建清单） | ID | 规则 | | --- |",
+            "competition": ""
+          }
+        ],
+        "rule_id": "H15"
+      }
+    }
+  ]
+}
